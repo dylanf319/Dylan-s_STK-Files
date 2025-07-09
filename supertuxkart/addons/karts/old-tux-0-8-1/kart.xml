@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<kart name="Old Tux 0.8.1" version="3" model-file="tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="tuxkartshadow.png" type="medium" groups="Add-Ons" rgb="0.75 0.00 0.00" revision="3">
+    <sounds engine="custom" file="Engine_Franchesco.ogg" positional="true" rolloff="0.2" min-dist=0.6 max_dist="300" volume="1.0" positional="y"/>
+    <animations left="0" straight="20" right="40" start-winning="80" end-winning="335" start-losing="486" start-losing-loop="832" end-losing="852"/>
+    <wheels>
+        <front-left position="-0.283304 0.101876 0.407714" model="wheel-front-left.b3d"/>
+        <front-right position="0.294537 0.101876 0.407615" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.345336 0.140526 -0.348104" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.356126 0.140526 -0.348040" model="wheel-rear-right.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.224117 0.329109 -0.685808"/>
+        <nitro-emitter-b position="-0.195588 0.329109 -0.685808"/>
+    </nitro-emitter>
+    <hat position="-0.000000 0.690000 -0.030000" rotation="-7.594650 0.000002 0.000016" scale="1.000000 1.000000 1.000000" bone="Head"/>
+    <exhaust file="kart_exhaust.xml"/>
+</kart>

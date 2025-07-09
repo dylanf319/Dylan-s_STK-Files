@@ -1,0 +1,6 @@
+Originally from version 0.6, it got ported to 0.7 and got replaced by Konqi at 0.7 SVN-r5967.
+Animations are made by Rudy85.
+
+I fixed the helmet, and colors for the kart.
+
+Released under License GNU GPL.
