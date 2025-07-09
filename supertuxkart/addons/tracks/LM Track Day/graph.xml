@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 17016 -->
+<graph>
+  <!-- First define all nodes of the graph, and what quads they represent -->
+  <node-list from-quad="0" to-quad="1526"/>  <!-- map each quad to a node  -->
+  <!-- Define the main loop -->
+  <edge-loop from="0" to="743"/>
+  <!-- Shortcut Bugatti.drive -->
+  <edge from="62" to="744"/>
+  <edge-line from="744" to="910"/>
+  <edge from="910" to="1391"/>
+  <!-- Shortcut Ancien-moulin.drive -->
+  <edge from="234" to="911"/>
+  <edge-line from="911" to="982"/>
+  <edge from="982" to="983"/>
+  <!-- Shortcut Casnieres.drive -->
+  <edge-line from="983" to="1185"/>
+  <edge from="1185" to="499"/>
+  <!-- Shortcut Chemin-aux-boeufs.drive -->
+  <edge from="115" to="1186"/>
+  <edge-line from="1186" to="1526"/>
+  <edge from="1526" to="983"/>
+</graph>
