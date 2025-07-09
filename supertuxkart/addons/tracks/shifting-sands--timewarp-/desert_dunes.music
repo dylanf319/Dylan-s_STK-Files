@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<music title    = "Desert Dunes"
+       composer = "Zhetty"
+       file     = "desert_dunes.ogg"
+       gain     = "8"
+       fast     = "true"/>

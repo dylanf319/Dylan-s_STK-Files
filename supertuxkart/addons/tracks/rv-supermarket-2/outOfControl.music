@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<music title      = "Out of Control" 
+       composer   = "Acclaim. The Re-Volt Music Department" 
+       file       = "outOfControl.ogg"
+	   gain       = "1.2"
+	   fast = "false"/>
