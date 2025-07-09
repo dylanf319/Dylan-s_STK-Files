@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 7732 -->
+<scene>
+  <track model="sandtrack_track.b3d" x="0" y="0" z="0"/>
+  <water model="water.b3d" xyz="-23.550959 -6.657578 128.668610" hpr="-0.000000 -0.000000 -0.000000" scale="1.000000 1.000000 1.000000" height="0.2"/>
+  <banana x="-81.07547" y="1.818746" z="162.129395" />
+  <banana x="-122.716003" y="3.81994" z="169.308792" />
+  <banana x="-153.146942" y="4.896215" z="77.678192" />
+  <banana x="-151.213364" y="6.232723" z="133.620331" />
+  <banana x="-125.367516" y="4.399203" z="58.954544" />
+  <banana x="-131.837265" y="6.484936" z="12.173336" />
+  <item x="3.482949" y="-1.111417" z="43.685253" />
+  <item x="15.257572" y="-0.901046" z="43.349571" />
+  <item x="-2.942299" y="-1.074236" z="43.752224" />
+  <item x="-107.043617" y="3.320197" z="154.315002" />
+  <item x="-147.24826" y="6.338926" z="151.443237" />
+  <item x="-137.915039" y="5.427491" z="106.930946" />
+  <item x="-158.017365" y="5.721308" z="100.469482" />
+  <item x="-139.350922" y="5.135693" z="36.572807" />
+  <item x="-117.812714" y="5.700621" z="17.188425" />
+  <item x="-9.231397" y="-1.092973" z="43.685268" />
+  <item x="9.539913" y="-1.129999" z="43.510632" />
+  <small-nitro x="-5.301632" y="10.072228" z="-142.147476" />
+  <small-nitro x="-64.175316" y="19.633625" z="-131.377899" />
+  <small-nitro x="-23.250925" y="12.146987" z="-151.48111" />
+  <small-nitro x="-39.764275" y="12.996696" z="-154.352997" />
+  <small-nitro x="-54.841682" y="16.906013" z="-145.019363" />
+  <small-nitro x="6.185916" y="6.892061" z="-131.377899" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="-40.877525 197.459778" p2="-47.219246 159.336487"
+                min-height="-1.864628" same-group="1"/>
+    <check-line kind="activate" other-ids="0" p1="-88.309296 -29.102606" p2="-118.331764 -38.765526"
+                min-height="7.687703" same-group="2"/>
+  </checks>
+  <sun  fog="true" fog-color="82 55 55" fog-max="0.20000000298023224" fog-start="15.00" fog-end="500.00" xyz="-108.94 186.06 528.91" sun-diffuse="138 135 135" ambient="138 135 135"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.5"
+                 sidewards-distance="3"
+                 upwards-distance  ="1.0"/>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="-9.504972 1.278213 120.409271" distance="50"/>
+    <camera type="static_follow_kart" xyz="-85.609062 3.821216 183.691635" distance="45"/>
+    <camera type="ahead_of_kart" xyz="-147.948425 8.153740 115.097366" distance="15"/>
+  </end-cameras>
+</scene>
