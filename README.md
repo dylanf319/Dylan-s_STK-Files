@@ -4,15 +4,15 @@
 
 -GUI: *icons, items help.*
 
--Karts: *Tux.*
+-Karts: *Textures, custom sfx, karts exlusives.*
 
 -Items: *Textures.*
 
 -Musics: *Volume, fast mode.*
 
--sfx: *Volume, Custom sfx*
+-sfx: *Volume, custom sfx*
 
--Tracks: *appearances, musics, graphics, cinematics.*
+-Tracks: *appearances, custom musics, graphics, cinematics.*
 
 -Translations: *ES personalized.*
 
