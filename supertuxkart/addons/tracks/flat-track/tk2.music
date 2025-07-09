@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<music title    = "tk5a"
+       composer = "Matt Thomas"
+       file     = "tk5a.ogg"
+       fast     = "true"
+       fast-filename = "tk2.ogg"/>
