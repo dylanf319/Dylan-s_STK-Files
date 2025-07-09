@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<music title       = "Race 1"
+    composer       = "Tux Racer OST"
+        file       = "Race1.ogg"
+        loop-start = "0.985"/>
