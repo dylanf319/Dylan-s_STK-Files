@@ -1,0 +1,12 @@
+
+<supertuxkart_grand_prix name="Dylan's&#x20;World&#x20;2">
+
+	<track id="addon_china" laps="2" reverse="false" />
+	<track id="addon_nostalgia" laps="2" reverse="false" />
+	<track id="addon_cross-race" laps="2" reverse="false" />
+	<track id="addon_emule-track" laps="3" reverse="false" />
+	<track id="addon_alpine-2_1" laps="1" reverse="false" />
+	<track id="addon_canyon-42" laps="2" reverse="false" />
+	<track id="addon_roving-city" laps="5" reverse="false" />
+
+</supertuxkart_grand_prix>

@@ -1,0 +1,49 @@
+
+<supertuxkart_grand_prix name="Mis&#x20;Favoritos">
+
+	<track id="addon_supertux-raceway" laps="3" reverse="false" />
+	<track id="addon_messy-pond" laps="5" reverse="false" />
+	<track id="addon_on-an-iceberg" laps="3" reverse="false" />
+	<track id="addon_subsea-basic-in-abyss" laps="2" reverse="false" />
+	<track id="addon_racetrack-remake" laps="5" reverse="false" />
+	<track id="addon_subsea-2021-upgrade" laps="2" reverse="false" />
+	<track id="addon_old-snow-peak" laps="3" reverse="false" />
+	<track id="addon_blooming-start" laps="3" reverse="false" />
+	<track id="addon_old-crescent-crossing" laps="3" reverse="false" />
+	<track id="addon_city-lights_1" laps="3" reverse="false" />
+	<track id="addon_nostalgia" laps="3" reverse="false" />
+	<track id="addon_old-lighthouse" laps="4" reverse="false" />
+	<track id="addon_altura-geohatia" laps="2" reverse="false" />
+	<track id="addon_the-cube_1" laps="4" reverse="false" />
+	<track id="addon_coconut-mall" laps="4" reverse="false" />
+	<track id="addon_city-lights" laps="3" reverse="false" />
+	<track id="addon_hardcore-fort-magma" laps="3" reverse="false" />
+	<track id="addon_paradise-peaks" laps="3" reverse="false" />
+	<track id="addon_old-snow-peak-0-8" laps="3" reverse="false" />
+	<track id="addon_hacienda--edit-_1" laps="3" reverse="false" />
+	<track id="fortmagma" laps="3" reverse="false" />
+	<track id="addon_classic-subsea" laps="3" reverse="false" />
+	<track id="addon_powder-rush" laps="3" reverse="false" />
+	<track id="addon_on-the-beach_3" laps="3" reverse="false" />
+	<track id="addon_bebelious-circuit-2" laps="5" reverse="false" />
+	<track id="addon_shifting-sands--timewarp-" laps="3" reverse="false" />
+	<track id="addon_old-snowmountain" laps="3" reverse="false" />
+	<track id="snowmountain" laps="3" reverse="false" />
+	<track id="addon_ancient-summits" laps="3" reverse="false" />
+	<track id="addon_snow-peak-rework" laps="4" reverse="false" />
+	<track id="addon_rv-supermarket-2" laps="6" reverse="false" />
+	<track id="snowtuxpeak" laps="3" reverse="false" />
+	<track id="addon_SnesRainbowRoad" laps="5" reverse="false" />
+	<track id="addon_tux-tollway" laps="3" reverse="false" />
+	<track id="addon_green-hill_1" laps="3" reverse="false" />
+	<track id="addon_rv-toys-in-the-hood-1" laps="3" reverse="false" />
+	<track id="addon_old-math-class" laps="6" reverse="false" />
+	<track id="addon_bebelious-circuit-1" laps="5" reverse="false" />
+	<track id="addon_racetrack" laps="3" reverse="false" />
+	<track id="addon_old-traditional-shifting-sands" laps="3" reverse="false" />
+	<track id="hacienda" laps="3" reverse="false" />
+	<track id="addon_original-shifting-sands" laps="3" reverse="false" />
+	<track id="addon_tux-racer" laps="2" reverse="false" />
+	<track id="addon_gown-s-bow" laps="3" reverse="false" />
+
+</supertuxkart_grand_prix>

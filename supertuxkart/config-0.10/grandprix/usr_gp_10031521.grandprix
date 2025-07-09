@@ -1,0 +1,12 @@
+
+<supertuxkart_grand_prix name="Dylan's&#x20;World&#x20;4">
+
+	<track id="addon_shifting-sands--timewarp-" laps="3" reverse="false" />
+	<track id="addon_on-an-iceberg" laps="3" reverse="false" />
+	<track id="addon_the-cube_1" laps="5" reverse="false" />
+	<track id="addon_rt3-pit-time" laps="3" reverse="false" />
+	<track id="addon_high-mountain-race-track" laps="1" reverse="false" />
+	<track id="addon_woodromo" laps="4" reverse="false" />
+	<track id="addon_final-gloom" laps="6" reverse="false" />
+
+</supertuxkart_grand_prix>

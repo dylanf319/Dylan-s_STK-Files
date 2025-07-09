@@ -1,0 +1,12 @@
+
+<supertuxkart_grand_prix name="Dylan's&#x20;World&#x20;3">
+
+	<track id="addon_supertux-raceway" laps="2" reverse="false" />
+	<track id="addon_stormy-pier" laps="3" reverse="false" />
+	<track id="addon_blooming-start" laps="3" reverse="false" />
+	<track id="addon_ancient-summits" laps="3" reverse="false" />
+	<track id="addon_x-kart-1" laps="3" reverse="false" />
+	<track id="addon_mystic-island" laps="3" reverse="false" />
+	<track id="addon_beam-runner_1" laps="6" reverse="false" />
+
+</supertuxkart_grand_prix>

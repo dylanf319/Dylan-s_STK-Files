@@ -1,0 +1,12 @@
+
+<supertuxkart_grand_prix name="Dylan's&#x20;World&#x20;5">
+
+	<track id="addon_rv-toys-in-the-hood-1" laps="3" reverse="false" />
+	<track id="addon_rt6-finny-splashdown" laps="3" reverse="false" />
+	<track id="addon_mod-circuit" laps="4" reverse="false" />
+	<track id="addon_powder-rush" laps="3" reverse="false" />
+	<track id="addon_forza" laps="2" reverse="false" />
+	<track id="addon_boomyeet-circuit" laps="3" reverse="false" />
+	<track id="addon_golem-bight" laps="6" reverse="false" />
+
+</supertuxkart_grand_prix>
