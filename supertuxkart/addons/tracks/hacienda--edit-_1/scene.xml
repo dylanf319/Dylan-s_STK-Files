@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<scene>
+  <track model="hacienda_track.b3d" x="0" y="0" z="0">
+    <static-object lod_distance="50.0" lod_group="lantern" model="Mesh.b3d" xyz="-14.00 3.85 0.00" hpr="-90.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_distance="225.0" lod_group="lantern" model="Mesh.001.b3d" xyz="-14.00 3.85 -3.00" hpr="-90.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="10.14 6.63 0.06" hpr="-90.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="22.17 7.75 -34.18" hpr="-90.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="11.09 7.33 39.96" hpr="-90.0 -0.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="13.06 7.33 77.28" hpr="-90.0 14.6 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="46.18 5.93 109.09" hpr="-90.0 -83.7 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="92.75 6.03 99.83" hpr="-90.0 -12.5 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="225.33 6.88 98.55" hpr="-90.0 -12.5 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="230.10 15.52 104.96" hpr="-90.0 -12.5 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object lod_instance="true" lod_group="lantern" xyz="142.94 -11.38 -81.16" hpr="-90.0 -12.5 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.002.b3d" xyz="309.95 6.82 191.00" hpr="-90.0 45.0 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.009.b3d" xyz="-10.54 3.53 104.22" hpr="-90.0 114.4 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.010.b3d" xyz="-16.84 3.61 84.85" hpr="-90.0 90.0 0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="arrow.b3d" xyz="305.46 5.51 116.76" hpr="-0.0 -157.4 0.0" scale="1.00 1.00 1.00"> <!-- writeStaticObjects 2 -->
+    <animated-texture name="zipper.png" dy="1.500" />
+    </static-object>
+    <static-object model="Plane.018.b3d" xyz="-9.29 1.06 124.16" hpr="90.0 124.0 -0.0" scale="1.55 1.55 1.55"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.019.b3d" xyz="-36.55 1.06 94.62" hpr="90.0 124.0 -0.0" scale="2.07 2.07 2.07"/> <!-- writeStaticObjects 3 -->
+    <static-object model="arrow2.b3d" xyz="305.57 5.51 116.71" hpr="-0.0 -157.4 0.0" scale="1.00 1.00 1.00"> <!-- writeStaticObjects 2 -->
+    <animated-texture name="zipper-effect.png" dy="0.100" />
+    </static-object>
+    <static-object model="Plane.021.b3d" xyz="93.92 5.44 103.47" hpr="0.0 -0.0 -100.0" scale="1.40 1.40 1.40"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.023.b3d" xyz="93.92 5.24 96.52" hpr="0.0 -0.0 -100.0" scale="1.98 1.98 1.98"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.024.b3d" xyz="82.68 5.24 102.69" hpr="-2.4 -0.1 -91.5" scale="1.98 1.98 1.98"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.025.b3d" xyz="73.05 5.24 95.99" hpr="-2.4 -0.1 -91.5" scale="2.35 2.35 2.35"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.026.b3d" xyz="107.74 5.24 98.91" hpr="0.0 -0.0 -100.0" scale="1.98 1.98 1.98"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.043.b3d" xyz="388.00 4.05 13.78" hpr="0.0 86.7 0.0" scale="2.51 2.51 2.51"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.044.b3d" xyz="388.00 11.03 153.43" hpr="0.0 56.7 0.0" scale="2.88 2.88 2.88"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.045.b3d" xyz="388.00 1.69 -116.02" hpr="0.0 32.7 0.0" scale="3.76 3.76 3.76"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.046.b3d" xyz="311.03 4.97 68.85" hpr="0.0 56.7 0.0" scale="2.88 2.88 2.88"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.047.b3d" xyz="309.84 -3.36 13.81" hpr="0.0 56.7 0.0" scale="2.88 2.88 2.88"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.049.b3d" xyz="384.46 7.75 112.15" hpr="-90.0 45.0 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="Plane.050.b3d" xyz="384.46 -7.07 -25.18" hpr="-90.0 45.0 -0.0" scale="1.00 1.00 1.00"/> <!-- writeStaticObjects 3 -->
+    <static-object model="arrow2.b3d" xyz="150.00 -10.92 -5.08" hpr="-0.0 83.1 -0.0" scale="1.00 1.00 1.00"> <!-- writeStaticObjects 2 -->
+    <animated-texture name="zipper-effect.png" dy="0.100" />
+    </static-object>
+    <static-object model="arrow.b3d" xyz="150.02 -10.92 -5.21" hpr="-0.0 83.1 -0.0" scale="1.00 1.00 1.00"> <!-- writeStaticObjects 2 -->
+    <animated-texture name="zipper.png" dy="1.500" />
+    </static-object>
+    <static-object model="arrow2.b3d" xyz="44.49 -3.15 -69.72" hpr="0.0 105.2 0.0" scale="1.00 1.00 1.00"> <!-- writeStaticObjects 2 -->
+    <animated-texture name="zipper-effect.png" dy="0.100" />
+    </static-object>
+    <static-object model="arrow.b3d" xyz="44.46 -3.15 -69.84" hpr="0.0 105.2 0.0" scale="1.00 1.00 1.00"> <!-- writeStaticObjects 2 -->
+    <animated-texture name="zipper.png" dy="1.500" />
+    </static-object>
+  </track>
+  <object type="animation" model="BigBox.b3d" xyz="133.37 -2.56 -23.59" hpr="-10.2 -9.8 1.8" scale="1.00 1.00 1.00" shape="box" explode="y" interaction="explode">
+    <curve channel="LocX" interpolation="bezier" extend="cyclic">
+      <p c="1.000 133.372" h1="-1.968 133.372" h2="3.968 133.372"/>
+      <p c="10.000 139.073" h1="6.768 137.695" h2="13.591 140.604"/>
+      <p c="20.000 141.266" h1="16.290 140.050" h2="24.081 142.602"/>
+      <p c="31.000 146.060" h1="26.916 144.732" h2="34.342 147.146"/>
+      <p c="40.000 147.988" h1="36.564 147.988" h2="43.436 147.988"/>
+    </curve>
+    <curve channel="LocZ" interpolation="bezier" extend="cyclic">
+      <p c="1.000 -23.592" h1="-2.464 -23.592" h2="4.464 -23.592"/>
+      <p c="10.000 -25.119" h1="6.509 -24.720" h2="13.879 -25.562"/>
+      <p c="20.000 -25.707" h1="16.229 -25.119" h2="24.219 -26.364"/>
+      <p c="31.000 -30.955" h1="27.150 -29.052" h2="34.150 -32.512"/>
+      <p c="40.000 -35.557" h1="36.872 -35.557" h2="43.128 -35.557"/>
+    </curve>
+    <curve channel="LocY" interpolation="bezier" extend="cyclic">
+      <p c="1.000 -2.561" h1="-1.777 -2.561" h2="3.777 -2.561"/>
+      <p c="10.000 -9.541" h1="7.167 -7.462" h2="13.147 -11.851"/>
+      <p c="20.000 -16.464" h1="16.115 -16.464" h2="24.273 -16.464"/>
+      <p c="31.000 -11.056" h1="26.749 -11.056" h2="34.478 -11.056"/>
+      <p c="40.000 -18.076" h1="37.229 -18.076" h2="42.771 -18.076"/>
+    </curve>
+    <curve channel="RotX" interpolation="bezier" extend="cyclic">
+      <p c="1.000 -9.851" h1="-2.509 -9.851" h2="4.509 -9.851"/>
+      <p c="10.000 -37.008" h1="6.498 -20.700" h2="13.891 -55.128"/>
+      <p c="20.000 -99.966" h1="16.117 -76.943" h2="24.272 -125.292"/>
+      <p c="31.000 -161.143" h1="26.710 -161.143" h2="34.510 -161.143"/>
+      <p c="40.000 -159.837" h1="36.486 -159.837" h2="43.514 -159.837"/>
+    </curve>
+    <curve channel="RotZ" interpolation="bezier" extend="cyclic">
+      <p c="1.000 1.728" h1="-2.500 1.728" h2="4.500 1.728"/>
+      <p c="10.000 -43.804" h1="6.493 -31.189" h2="13.896 -57.821"/>
+      <p c="20.000 -65.159" h1="16.099 -65.159" h2="24.291 -65.159"/>
+      <p c="31.000 9.120" h1="26.746 -24.556" h2="34.481 36.674"/>
+      <p c="40.000 90.837" h1="36.530 90.837" h2="43.470 90.837"/>
+    </curve>
+    <curve channel="RotY" interpolation="bezier" extend="cyclic">
+      <p c="1.000 -9.851" h1="-2.513 -9.851" h2="4.513 -9.851"/>
+      <p c="10.000 -20.595" h1="6.492 -9.851" h2="13.899 -32.535"/>
+      <p c="20.000 -74.379" h1="16.123 -47.987" h2="24.265 -103.409"/>
+      <p c="31.000 -164.981" h1="26.715 -163.364" h2="34.504 -166.303"/>
+      <p c="40.000 -166.303" h1="36.486 -166.303" h2="43.514 -166.303"/>
+    </curve>
+  </object>
+  <object type="animation" model="mill.b3d" xyz="246.51 39.38 -153.97" hpr="-0.0 146.1 -0.0" scale="1.00 1.00 1.00"  interaction="none">
+    <curve channel="RotZ" interpolation="linear" extend="cyclic">
+      <p c="1.000 -0.000"/>
+      <p c="100.000 -360.000"/>
+    </curve>
+  </object>
+  <object type="animation" model="mill.001.b3d" xyz="310.57 54.23 -218.05" hpr="-0.0 146.1 -0.0" scale="1.00 1.00 1.00"  interaction="none">
+    <curve channel="RotZ" interpolation="linear" extend="cyclic">
+      <p c="1.000 -0.000"/>
+      <p c="100.000 -360.000"/>
+    </curve>
+  </object>
+  <object type="animation" model="mill.002.b3d" xyz="222.11 39.54 -252.99" hpr="-0.0 146.1 -0.0" scale="1.00 1.00 1.00"  interaction="none">
+  </object>
+  <object type="movable" xyz="79.53 0.07 97.13" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"
+          model="pot.b3d" shape="cylinderY" mass="15.0"/>
+  <object type="movable" xyz="103.95 0.07 100.65" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"
+          model="pot.b3d" shape="cylinderY" mass="15.0"/>
+  <item x="-2.482748" y="-0.03716" z="47" />
+  <item x="0.62153" y="-0.03716" z="47" />
+  <item x="74" y="-0.131533" z="100.241394" />
+  <small-nitro x="91" y="1.3" z="105" />
+  <big-nitro x="105" y="2.411794" z="105" />
+  <item x="227.263123" y="8.970739" z="119.002136" />
+  <item x="228" y="1.203282" z="98" />
+  <item x="228" y="1.145939" z="102" />
+  <item x="226.321777" y="8.286848" z="77.302742" />
+  <item x="237.5" y="2.376517" z="22" />
+  <small-nitro x="239.577072" y="2.007432" z="23.365486" />
+  <small-nitro x="196.936447" y="2.007432" z="-49.282059" />
+  <item x="135.5" y="-20.9" z="-80" />
+  <item x="130.5" y="-20.9" z="-80" />
+  <big-nitro x="52.691925" y="-9.265882" z="-82.307655" />
+  <item x="241.622574" y="2.376517" z="24.559982" />
+  <small-nitro x="239.363525" y="2.007432" z="-52.177444" />
+  <small-nitro x="243.982361" y="2.007432" z="-56.451588" />
+  <small-nitro x="241.707413" y="2.007432" z="-54.245579" />
+  <small-nitro x="193.202362" y="2.007432" z="-52.614014" />
+  <item x="195.155579" y="2.007432" z="-50.660801" />
+  <small-nitro x="51.351616" y="-9.265882" z="-85.179741" />
+  <small-nitro x="50.154911" y="-9.265882" z="-87.812485" />
+  <small-nitro x="288.082001" y="6.406003" z="167.58313" />
+  <small-nitro x="286.391113" y="6.406003" z="165.52832" />
+  <small-nitro x="284.435425" y="6.406003" z="163.374878" />
+  <small-nitro x="159.642075" y="0.556666" z="95.888184" h="44.999999" />
+  <small-nitro x="159.502228" y="0.556666" z="98.793777" h="44.999999" />
+  <small-nitro x="159.244904" y="0.556666" z="101.442383" h="44.999999" />
+  <item x="3.613916" y="-0.03716" z="47" />
+  <item x="96.328545" y="-2.895056" z="-133.490265" h="-86.484465" />
+  <item x="96.635139" y="-2.895056" z="-138.480865" h="-86.484465" />
+  <big-nitro x="230.673065" y="8.001367" z="119.94648" />
+  <big-nitro x="229.931641" y="8.001367" z="122.157562" />
+  <big-nitro x="227.003876" y="8.001367" z="122.400291" />
+  <big-nitro x="224.57547" y="8.001367" z="120.571533" />
+  <big-nitro x="228.120422" y="8.001367" z="124.153183" />
+  <big-nitro x="232.107849" y="7.740438" z="127.842896" />
+  <big-nitro x="225.432587" y="7.740438" z="129.263718" />
+  <big-nitro x="157.911835" y="-5.438912" z="-99.671272" />
+  <big-nitro x="164.587097" y="-6.146448" z="-101.092094" />
+  <big-nitro x="160.618469" y="-5.649067" z="-102.260818" />
+  <big-nitro x="161.107864" y="-5.828484" z="-99.039085" />
+  <banana x="57.033424" y="0.417281" z="-39.753624" />
+  <banana x="62.048992" y="0.417281" z="-39.976265" />
+  <banana x="71.654999" y="0.417281" z="-56.729652" />
+  <banana x="62.697334" y="0.417281" z="-47.467743" />
+  <banana x="66.645401" y="0.417281" z="-43.745472" />
+  <banana x="55.105518" y="0.417281" z="-36.227623" />
+  <banana x="40.826355" y="0.596691" z="-31.918159" />
+  <banana x="67.819962" y="0.596691" z="-51.986126" />
+  <banana x="36.370808" y="0.417281" z="-31.988205" />
+  <banana x="48.920776" y="0.417281" z="-38.017735" h="23.934161" />
+  <banana x="51.019283" y="0.596691" z="-33.013859" h="23.934161" />
+  <banana x="46.344673" y="0.596691" z="-34.845108" h="23.934161" />
+  <sun  xyz="195.75 343.26 138.14" sun-diffuse="147 144 118" ambient="111 113 120"/>
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="227.98 109.13" p2="229.34 90.07"
+                min-height="-0.01" same-group="1"/>
+    <check-line kind="activate" other-ids="0" p1="235.08 -35.54" p2="257.78 -48.02"
+                min-height="-5.98" same-group="2"/>
+  </checks>
+  <camera far="1000.0"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.50"
+                 sidewards-distance="3.00"
+                 upwards-distance  ="0.10"/>
+</scene>
