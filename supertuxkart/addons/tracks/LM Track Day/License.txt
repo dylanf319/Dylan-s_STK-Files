@@ -1,0 +1,104 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: LM Track for SuperTuxKart
+Upstream-Contact: Anard <anard@free.fr>
+Source: https://supertuxkart.net
+License: CC-BY-SA 4.0
+Comment: Track based on Le Mans circuits
+
+Files: skybox*
+Copyright: Emil Persson, aka Humus 2013 opengameart.com
+License: CC-BY 3.0
+
+Files: sand*
+Copyright: Copyright 2020 cc0textures.com
+License: CC0 Public Domain
+
+Files: Paving_Stones_2.png
+Copyright: Marianne Gagnon, made from public domain images from BurningWell, http://www.publicdomainpictures.net/, Wikimedia commons
+License: CC-BY-SA 3.0
+
+Files: city_asphalt*
+Copyright: Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008
+
+Files: grasshedge.png
+Copyright: Lamoot 2012 opengameart.com
+Licence: CC0 Public Domain
+
+Textures: Nolok-Experience-Center's walls
+Copyright: Copyright 2020 everytexture.com
+
+Files: *
+Copyright: Copyright 2020 Anard <anard@free.fr>
+License: CC-BY-SA 3.0
+Comment: Track based on Le Mans circuits
+
+// STK Media Repository Objects //
+Object: stlib_accacia_a
+Copyright: Copyright 2015 Jean-Manuel Clémençon
+License: CC-BY-SA 4.0
+
+Object: stklib_pinetree*
+Files:
+ fir_bark.png
+ fir_branch.png
+Copyright:
+ Copyright Christian "Duion" Femmer
+ Copyright 2018 Sven Andreas Belting
+License: CC-BY 3.0
+Files:
+ fir_tree.png
+ fir_bark_nm.png
+ *.xml
+ *.spm
+Copyright: Copyright 2018 Sven Andreas Belting
+License: CC-BY-SA 3.0
+
+Objects: stklib_carousel_a
+Copyright: based on https://www.blendswap.com/blends/view/67208 modified by Jean-Manuel Clémençon
+License: CC-BY-SA 4.0
+
+Objects: stklib_kikiPainter_a
+Copyright:
+ Copyright 2017 Benau
+License: CC-BY-SA 3.0
+
+Objects: stklib_loudspeaker_a
+Copyright:
+ Copyright 2017 Benau
+License: CC-BY-SA 3.0
+
+Objects: stklib_old_house_a
+Upstream-Contact:
+ Sven Andreas Belting: https://forum.freegamedev.net/memberlist.php?mode=viewprofile&u=5237
+ Marianne "Auria" Gagnon <auria.mg@gmail.com>
+Source: https://supertuxkart.net
+License: CC-BY-SA 4.0 
+
+Objects: stklib_sagebrush_a
+Branches
+    http://commons.wikimedia.org/wiki/File:Angsttriebe_auf_einem_Eschenast_1.jpg
+    Christoph Waghubinger 
+    CC-BY-SA 3.0
+Bush
+    http://www.publicdomainpictures.net/view-image.php?image=70285&picture=bush-8&large=1
+    public domain
+    Daniel Smith
+Flower
+    http://commons.wikimedia.org/wiki/File:Greatbasin_sage.JPG
+    Cliff Hutson
+    CC-BY-SA 3.0
+
+Objects: stklib_wilberPainter_a
+Copyright:
+ Copyright 2017 Benau
+License: CC-BY-SA 3.0
+
+Objects: stklib_wilberSecurity_a
+Copyright:
+ Copyright 2016 "GeekPenguinBR" and "TuxKartDriver" 
+ Copyright 2017 Benau
+License: CC-BY-SA 3.0
+
+Sounds: fairground.ogg, announcer.ogg
+Copyright: Copyright 2020 BBC bbc.co.uk
+License: RemArc

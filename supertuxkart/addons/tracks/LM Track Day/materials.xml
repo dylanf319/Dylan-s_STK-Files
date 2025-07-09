@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+  <material name="AmandArena.png" gloss-map="AmandArena_gloss.png" normal-map="AmandArena_normal.png"/>
+  <material name="ArchTire.png" high-adhesion="Y">
+    <sfx filename="wooden_bridge.wav" min_speed="5.00" max_speed="15.00" min_pitch="0.80" max_pitch="1.20" positional="true" rolloff="0.10"/>
+  </material>
+  <material name="asphalt_plain.png" slowdown-time="0.90" max-speed="0.75"/>
+  <material name="chromed-metal.png" gloss-map="chromed-metal_gloss.png"/>
+  <material name="fire_zipper.png" shader="alphatest" gloss-map="zipper-shiny.png" mirror-axis="V">
+    <zipper duration="1.5" max-speed-increase="18.0" fade-out-time="3.0" speed-gain="5.0" min-speed="8.0"/>
+  </material>
+  <material name="gfxGlow_red_a.png" gloss-map="gfxGlow_generic_a_gloss.png"/>
+  <material name="gfxGlow_White_a.png" gloss-map="gfxGlow_generic_a_gloss.png"/>
+  <material name="GnuTire.png">
+    <sfx filename="wooden_bridge.wav" min_speed="5.00" max_speed="15.00" min_pitch="0.80" max_pitch="1.20" positional="true" rolloff="0.10"/>
+  </material>
+  <material name="grass.png" slowdown-time="0.75" max-speed="0.60">
+    <particles base="gfx_jetBlastSand_a.xml" condition=" skid"/>
+  </material>
+  <material name="grasshedge.png" normal-map="grasshedge_nm.png"/>
+  <material name="Great-Wheel.png" gloss-map="Great-Wheel_gloss.png"/>
+  <material name="Nolok-Experience-Center.png" gloss-map="Nolok-Experience-Center_gloss.png" normal-map="Nolok-Experience-Center_normal.png"/>
+  <material name="Panel-arrows.png" mirror-axis="U"/>
+  <material name="Panels.png" gloss-map="Panels_gloss.png"/>
+  <material name="racetrack_crowd.png" normal-map="racetrack_crowd_nm.png"/>
+  <material name="redwhite.png">
+    <sfx filename="wooden_bridge.wav" min_speed="5.00" max_speed="15.00" min_pitch="0.80" max_pitch="1.20" positional="true" rolloff="0.10"/>
+  </material>
+  <material name="regular.png" gloss-map="regular_gloss.png"/>
+  <material name="sand.jpg" slowdown-time="0.50" max-speed="0.40"/>
+  <material name="sand.png" normal-map="sand_nm.png" slowdown-time="0.40" max-speed="0.40">
+    <particles base="gfx_jetBlastSand_a.xml" condition="skid drive"/>
+  </material>
+  <material name="stk_glassPanel_a.png" shader="alphablend" gloss-map="stk_glassPanel_a_alpha.png" mask="stk_glassPanel_a_alpha.png"/>
+  <material name="storm_zipper.png" shader="alphatest"/>
+  <material name="zipper.png" shader="alphatest" gloss-map="zipper-shiny.png" mirror-axis="V">
+    <zipper duration="2.0" max-speed-increase="13.0" fade-out-time="3.0" speed-gain="2.5" min-speed="-1.0"/>
+  </material>
+</materials>
