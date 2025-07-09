@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 17016 -->
+<track  name           = "SNES Rainbow Road"
+        version        = "7"
+        groups         = "Add-Ons"
+        designer       = "Mtgames"
+        music          = "snesrainbow.music"
+        screenshot     = "screenshot.jpg"
+        smooth-normals = "false"
+        default-number-of-laps = "5"
+        reverse        = "N"
+        clouds         = "N"
+        is-during-day  = "N"
+        shadows        = "Y"
+>
+</track>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<music title         = "Rainbow Road"
+       composer      = "Soyo Oka"
+       file          = "snesrainbow.ogg"
+       loop-start    = "6.6"
+       fast          = "true"
+       fast-filename = "snesrainbowfast.ogg"
+       fast-loop-start = "5.129"
+       gain          = "6"/>
