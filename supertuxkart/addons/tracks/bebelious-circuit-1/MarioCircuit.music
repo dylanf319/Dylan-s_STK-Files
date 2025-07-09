@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<music title          = "Mario Circuit"
+       composer       = "Soyo Oka"
+       file           = "MarioCircuit.ogg"
+       loop-start     = "3.9028"
+       fast           = "true"
+       fast-filename  = "MarioCircuitFinalLap.ogg"
+       fast-loop-start = "3.06079"
+       gain           = "8"/>
