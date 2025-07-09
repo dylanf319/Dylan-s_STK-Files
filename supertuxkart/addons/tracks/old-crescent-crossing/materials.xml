@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 7732 -->
+<materials>
+  <material name="ghost.png" compositing="blend" light="N"/>
+  <material name="metalfence.png" transparency="yes" compositing="test"/>
+  <material name="nightsky1.png" light="N"/>
+  <material name="nightsky2.png" light="N"/>
+  <material name="owl.png" light="N"/>
+</materials>
