@@ -1,0 +1,171 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 3455,
+    "overlay_height": 1800,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                652,
+                1497
+            ],
+            "id": "Up",
+            "z_level": 0,
+            "mapping": [
+                8,
+                4,
+                149,
+                149
+            ],
+            "code": 57416
+        },
+        {
+            "type": 1,
+            "pos": [
+                500,
+                1573
+            ],
+            "id": "Left",
+            "z_level": 0,
+            "mapping": [
+                166,
+                4,
+                149,
+                149
+            ],
+            "code": 57419
+        },
+        {
+            "type": 1,
+            "pos": [
+                652,
+                1651
+            ],
+            "id": "Down",
+            "z_level": 0,
+            "mapping": [
+                323,
+                4,
+                149,
+                149
+            ],
+            "code": 57424
+        },
+        {
+            "type": 1,
+            "pos": [
+                803,
+                1572
+            ],
+            "id": "Right",
+            "z_level": 0,
+            "mapping": [
+                481,
+                4,
+                149,
+                149
+            ],
+            "code": 57421
+        },
+        {
+            "type": 1,
+            "pos": [
+                72,
+                1650
+            ],
+            "id": "Fire",
+            "z_level": "0",
+            "mapping": [
+                7,
+                323,
+                151,
+                149
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                304,
+                1497
+            ],
+            "id": "Nitro",
+            "z_level": "0",
+            "mapping": [
+                166,
+                322,
+                150,
+                149
+            ],
+            "code": 49
+        },
+        {
+            "type": 1,
+            "pos": [
+                152,
+                1497
+            ],
+            "id": "Look",
+            "z_level": "0",
+            "mapping": [
+                323,
+                322,
+                150,
+                149
+            ],
+            "code": 48
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                1497
+            ],
+            "id": "Skid",
+            "z_level": 0,
+            "mapping": [
+                481,
+                322,
+                149,
+                149
+            ],
+            "code": 47
+        },
+        {
+            "type": 1,
+            "pos": [
+                225,
+                1648
+            ],
+            "id": "keyboard button9",
+            "z_level": 0,
+            "mapping": [
+                639,
+                321,
+                148,
+                149
+            ],
+            "code": 14
+        },
+        {
+            "type": 1,
+            "pos": [
+                3306,
+                450
+            ],
+            "id": "Esc",
+            "z_level": 0,
+            "mapping": [
+                638,
+                3,
+                149,
+                149
+            ],
+            "code": 1
+        }
+    ]
+}
