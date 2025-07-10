@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 16649 -->
+<scene>
+  <track model="classictollway_track.b3d" x="0" y="0" z="0"/>
+<object type="movable" xyz="60.000000 1.500000 -29.000000" hpr="-90.000003 19.999999 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadblock.b3d" shape="box" mass="10"/>
+  <object type="movable" xyz="58.000000 2.000000 -33.000000" hpr="-90.000003 -27.000001 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneZ" mass="15.0"/>
+  <object type="movable" xyz="56.000000 2.000000 -34.000000" hpr="-90.000003 -147.000001 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneZ" mass="15.0"/>
+  <object type="movable" xyz="54.000000 2.000000 -31.000000" hpr="-90.000003 -47.000000 -0.000000" scale="1.000000 1.000000 1.000000"
+          model="roadcone.b3d" shape="coneZ" mass="15.0"/>
+  <sun  xyz="100 100 100" sun-diffuse="100 100 100" ambient="110 110 110"/>
+  <sky-box texture="genericskybox_top.jpg genericskybox_bottom.jpg genericskybox_east.jpg genericskybox_west.jpg genericskybox_south.jpg genericskybox_north.jpg" />
+  <camera far="1000.0"/>
+  <banana id="banana" x="25.00" y="10.00" z="70.00" />
+  <banana id="banana.001" x="30.00" y="10.00" z="70.00" />
+  <banana id="banana.002" x="70.00" y="10.00" z="-130.00" />
+  <banana id="banana.003" x="70.00" y="10.00" z="-126.00" />
+  <banana id="banana.004" x="70.00" y="10.00" z="-123.00" />
+  <banana id="banana.005" x="70.00" y="10.00" z="-120.00" />
+  <item id="item" x="29.00" y="10.00" z="-139.00" />
+  <item id="item.001" x="29.00" y="10.00" z="-141.00" />
+  <item id="item.002" x="29.00" y="10.00" z="-143.00" />
+  <item id="item.003" x="29.00" y="10.00" z="-145.00" />
+  <item id="item.004" x="41.00" y="10.00" z="40.00" />
+  <item id="item.005" x="41.00" y="10.00" z="42.00" />
+  <item id="item.006" x="41.00" y="10.00" z="44.00" />
+  <item id="item.007" x="41.00" y="10.00" z="46.00" />
+  <item id="item.008" x="41.00" y="10.00" z="48.00" />
+  <item id="item.009" x="-40.00" y="10.00" z="-60.00" />
+  <item id="item.010" x="-20.00" y="10.00" z="-30.00" />
+  <item id="item.011" x="-10.00" y="10.00" z="-20.00" />
+  <item id="item.012" x="-70.00" y="10.00" z="-80.00" />
+  <item id="item.013" x="-50.00" y="10.00" z="-60.00" />
+  <nitro-big id="nitro-big" x="-45.00" y="10.00" z="-140.00" />
+  <nitro-small id="nitro-small" x="20.00" y="10.00" z="80.00" />
+  <nitro-small id="nitro-small.001" x="30.00" y="10.00" z="60.00" />
+  <nitro-small id="nitro-small.002" x="120.00" y="10.00" z="-55.00" />
+  <nitro-small id="nitro-small.003" x="120.00" y="10.00" z="-65.00" />
+  <checks>
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="0" p1="-28.368078 -147.016373" p2="-28.368217 -134.550613"
+                min-height="3.001080" same-group="1"/>
+  </checks>
+  <default-start karts-per-row     ="3"
+                 forwards-distance ="1.50"
+                 sidewards-distance="1.80"
+                 upwards-distance  ="1.10"/>
+</scene>
