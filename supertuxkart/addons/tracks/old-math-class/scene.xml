@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 6563 -->
+<scene>
+  <track model="olivermath_track.b3d" x="0" y="0" z="0"/>
+  <banana x="30" y="1" z="60" />
+  <banana x="-32" y="1" z="-10" />
+  <item x="40.639221" y="1" z="34.077877" />
+  <item x="2.791108" y="1" z="68.640533" />
+  <item x="45.606167" y="1" z="34.650986" />
+  <item x="8.470841" y="1" z="77.815491" />
+  <item x="-5" y="1" z="-10" />
+  <item x="-5" y="1" z="30" />
+  <item x="-30" y="1" z="-12" />
+  <item x="35" y="1" z="62" />
+  <item x="5.412523" y="1" z="73.337234" />
+  <item x="-43.426315" y="1" z="53.569115" />
+  <item x="-49.406582" y="1" z="53.569115" />
+  <item x="43.145672" y="1" z="-20.272217" />
+  <big-nitro x="-17.583391" y="2.5" z="19.363697" />
+  <big-nitro x="-32" y="1" z="-12" />
+  <big-nitro x="-39.645794" y="2.700242" z="5.913004" />
+  <small-nitro x="-19.546127" y="1" z="76.487808" />
+  <small-nitro x="-19.655354" y="1" z="78.924713" />
+  <small-nitro x="-19.546127" y="1" z="81.76458" />
+  <small-nitro x="-30" y="1" z="-10" />
+  <small-nitro x="31.796089" y="2.883538" z="16.745083" />
+  <small-nitro x="31.796089" y="2.883538" z="19.619421" />
+  <small-nitro x="31.796089" y="2.883538" z="14.650923" />
+  <checks>
+    <check-line kind="lap" p1="-18.216984 0.184668" p2="-6.676145 0.180415"
+                min-height="-0.047442" same-group="0 2 3" other-ids="1"/>
+    <check-line kind="activate" other-ids="0 2 3" p1="-9.194168 30.863869" p2="-9.305617 90.356178"
+                min-height="0.597910" same-group="1"/>
+    <check-line kind="lap" other-ids="1" p1="-18.216864 0.184818" p2="-21.126020 0.345565"
+                min-height="-0.060456" same-group="0 2 3"/>
+    <check-line kind="lap" other-ids="1" p1="-4.887419 0.488598" p2="-6.676180 0.180269"
+                min-height="-0.060456" same-group="0 2 3"/>
+  </checks>
+  <sun  xyz="100 100 100" sun-diffuse="100 100 100" ambient="110 110 110"/>
+  <default-start karts-per-row     ="2"
+                 forwards-distance ="1.5"
+                 sidewards-distance="3"
+                 upwards-distance  ="0.1"/>
+</scene>
