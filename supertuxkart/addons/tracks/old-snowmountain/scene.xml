@@ -40,6 +40,7 @@
     <check-line kind="activate" other-ids="0" p1="-24.75 -59.18" p2="-23.79 -37.29"
                 min-height="11.35" same-group="2"/>
   </checks>
+  <sun  xyz="100 100 100" sun-diffuse="100 100 100" ambient="110 110 110"/>
   <particle-emitter kind="black_smoke.xml" xyz="-122.87 11.93 -17.97" h="0.00" clip_distance="200">
   </particle-emitter>
   <particle-emitter kind="black_smoke.xml" xyz="-75.36 15.30 -20.41" h="0.00" clip_distance="200">
