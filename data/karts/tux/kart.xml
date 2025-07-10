@@ -7,7 +7,7 @@
       minimap-icon-file = "Icon.png"
       shadow-file       = "tux_shadow.png"
       type              = "medium"
-      groups            = "standard VIP"
+      groups            = "standard"
       rgb               = "1.00 0.00 0.00" >
   <sounds engine = "large"/>
   <animations left = "0"
