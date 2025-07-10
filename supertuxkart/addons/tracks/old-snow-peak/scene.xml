@@ -55,7 +55,7 @@
             speed-x="0" speed-y="0" />
   <sun  xyz="100 100 100" sun-diffuse="110 110 110" ambient="100 100 105"/>
   <sky-box texture="snowsky_t.jpg snowsky_b.jpg snowsky_e.jpg snowsky_w.jpg snowsky_s.jpg snowsky_n.jpg" />
-<sun  xyz="100 100 100" sun-diffuse="110 110 110" ambient="100 100 105"/>
+<sun  xyz="100 100 100" sun-diffuse="100 100 100" ambient="110 110 115"/>
   <default-start karts-per-row     ="2"
                  forwards-distance ="1.5"
                  sidewards-distance="3"
