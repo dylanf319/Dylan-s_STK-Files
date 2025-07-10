@@ -1,0 +1,1 @@
+The sprites and scripts were created by dylanf319 and inspired by Kimden
