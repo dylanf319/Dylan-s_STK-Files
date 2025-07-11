@@ -19,7 +19,7 @@
       <p c="184.694 -360.000"/>
     </curve>
   </object>
-  <sun  fog="true" fog-color="110 125 139" fog-max="0.5" fog-start="10.00" fog-end="50.00" xyz="100 100 100" sun-diffuse="100 100 100" ambient="110 110 110"/>
+  <sun  fog="true" fog-color="110 125 139" fog-max="0.5" fog-start="10.00" fog-end="50.00" xyz="100 100 100" sun-diffuse="100 100 100" ambient="100 100 100"/>
   <sky-color rgb="110 125 141"/>
   <weather particles="rain.xml" lightning="true" sound="rain"/>
   <item x="-27.765064" y="1.957284" z="49.391853" />
