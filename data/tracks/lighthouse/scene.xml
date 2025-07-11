@@ -244,7 +244,7 @@
   </object>
   <sun  fog="true" fog-color="21 43 75" fog-max="0.5" fog-start="20.00" fog-end="160.00" xyz="-89.21 179.38 96.03" sun-diffuse="57 59 93" ambient="57 59 93"/>
   <sky-color rgb="77 104 255"/>
-  <weather particles="rain-old.xml" lightning="true" sound="rain"/>
+  <weather particles="rain.xml" lightning="true" sound="rain"/>
   <sky-box texture="sky_top.jpg sky.jpg sky.jpg sky.jpg sky-m.jpg sky-m.jpg" sh-texture="sky.jpg sky.jpg sky.jpg sky.jpg sky.jpg sky.jpg"/>
   <camera far="1000.0"/>
   <checks>
