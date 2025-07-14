@@ -1,41 +1,8 @@
-**--CREDITS--**
+# Dylan's_SuperTuxKart Files 👀
 
---**Dylan's_yt:** *modifications*--
+Here I will publish my STK customizations and some Addons, 
 
--GUI: *icons, items help.*
+_Please note that this is not exactly a special modification
+anyone can do this type of modification_
 
--Karts: *Textures, custom sfx, karts exlusives.*
-
--Items: *Textures.*
-
--Musics: *Volume, fast mode.*
-
--sfx: *Volume, custom sfx*
-
--Tracks: *appearances, custom musics, graphics, cinematics.*
-
--Translations: *ES personalized.*
-
---**CrystalDaEevee** and **RowdyJoe-STK:** *Sounds/sfx mentioned*--
-
-*appear.ogg*
-
-*bowling_shoot.ogg*
-
-*explosión.ogg*
-
-*grab_collectable.ogg*
-
-*hammer.ogg*
-
-*plopp.ogg*
-
-*plunger.ogg*
-
-*shoot.ogg*
-
-*swap.ogg*
-
-*swatter.ogg*
-
-*goo.ogg* (its previous location was ugh.ogg)
+_my only goal is to publish my decorated modifications that I have been doing during 2023 - today_
