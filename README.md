@@ -16,4 +16,5 @@ There are no [releases](https://github.com/dylanf319/Dylan-s_STK-Files/releases)
 
 So for now you should download the source code from in .zip file [[<> Code▾]](https://github.com/dylanf319/Dylan-s_STK-Files)
 
-<img width="1712" height="974" alt="Poster2" src="https://github.com/user-attachments/assets/92041c1c-b762-4a50-a92d-de830a8bd378" />
+<img width="1405" height="812" alt="Poster2v2" src="https://github.com/user-attachments/assets/d4760247-093a-4eab-99e0-9f1a2a720202" />
+
