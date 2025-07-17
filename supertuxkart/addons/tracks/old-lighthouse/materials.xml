@@ -3,19 +3,19 @@
 <materials>
   <material name="fence.png" compositing="test" backface-culling="N"/>
   <material name="grass.jpg" slowdown-time="0.80" max-speed="0.50"/>
-  <material name="light.png" light="N" compositing="blend" clampu="Y" disable-z-write="Y" backface-culling="N" fog="N"/>
-  <material name="lighthouse.jpg" light="N"/>
+  <material name="light.png" light="N" compositing="blend" clampu="Y" disable-z-write="Y" backface-culling="Y" fog="Y"/>
+  <material name="lighthouse.jpg"/>
   <material name="lighthouse_path.png">
     <particles base="smoke_brown.xml" condition="skid drive"/>
   </material>
-  <material name="lighthouse_sky.jpg" light="N" reset="Y" fog="N"/>
+  <material name="lighthouse_sky.jpg" reset="Y" fog="N"/>
   <material name="sand.jpg" slowdown-time="0.80" max-speed="0.50">
     <particles base="smoke_yellow.xml" condition="skid drive"/>
   </material>
   <material name="sandgrass.jpg" slowdown-time="0.80" max-speed="0.50">
     <particles base="smoke_yellow.xml" condition="skid drive"/>
   </material>
-  <material name="sea.jpg" ignore="Y" surface="Y" water-shader="Y">
+  <material name="sea.jpg" ignore="Y" surface="Y" reset="Y">
     <sfx filename="splash.ogg" rolloff="0.10"/>
     <particles base="splash.xml" condition="skid drive"/>
   </material>
