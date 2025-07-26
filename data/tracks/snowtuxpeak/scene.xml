@@ -171,4 +171,14 @@
                  forwards-distance ="1.50"
                  sidewards-distance="3.00"
                  upwards-distance  ="0.10"/>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="-198.894 5.59831 60.8665" distance="50"/>
+    <camera type="static_follow_kart" xyz="-336.14 10.8183 73.7081" distance="50"/>
+    <camera type="static_follow_kart" xyz="-362.519 12.0683 -4.67937" distance="50"/>
+    <camera type="static_follow_kart" xyz="-342.428 27.9083 -97.4267" distance="50"/>
+    <camera type="static_follow_kart" xyz="-224.697 27.6983 -90.8731" distance="50"/>
+    <camera type="static_follow_kart" xyz="-259.097 37.4583 -32.0442" distance="50"/>
+    <camera type="static_follow_kart" xyz="-258.956 39.3583 12.4748" distance="55"/>
+    <camera type="static_follow_kart" xyz="-149.521 8.4183 -88.7664" distance="90"/>
+  </end-cameras>
 </scene>
