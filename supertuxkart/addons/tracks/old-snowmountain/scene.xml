@@ -90,4 +90,21 @@
                  forwards-distance ="1.50"
                  sidewards-distance="3.00"
                  upwards-distance  ="0.10"/>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="4.06211 3.33831 41.0675" distance="60"/>
+    <camera type="static_follow_kart" xyz="-30.6111 4.45831 87.9542" distance="30"/>
+    <camera type="static_follow_kart" xyz="-122.799 8.1683 28.8633" distance="50"/>
+    <camera type="static_follow_kart" xyz="-96.9682 9.23172 -10.2405" distance="20"/>
+    <camera type="static_follow_kart" xyz="-56.2988 11.9483 46.7329" distance="43.33"/>
+    <camera type="static_follow_kart" xyz="-53.5136 2.0883 -107.687" distance="50"/>
+    <camera type="static_follow_kart" xyz="-122.209 8.0183 -76.3828" distance="50"/>
+    <camera type="static_follow_kart" xyz="-92.848 11.6783 -41.5817" distance="20"/>
+    <camera type="static_follow_kart" xyz="-24.3833 14.4983 -31.5025" distance="40"/>
+    <camera type="static_follow_kart" xyz="27.6888 13.1679 -49.5798" distance="20"/>
+    <camera type="static_follow_kart" xyz="34.2711 14.4083 3.54" distance="30"/>
+    <camera type="static_follow_kart" xyz="53.9387 7.2983 72.4995" distance="40"/>
+    <camera type="static_follow_kart" xyz="57.7471 7.0883 -1.75529" distance="30"/>
+    <camera type="static_follow_kart" xyz="59.1519 -0.021699 -93.5382" distance="50"/>
+    <camera type="static_follow_kart" xyz="-13.5781 -0.021699 -93.5382" distance="50"/>
+  </end-cameras>
 </scene>
