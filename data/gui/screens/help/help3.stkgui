@@ -84,7 +84,7 @@
                 <div width="100%" proportion="1" layout="horizontal-row">
                      <icon align="center" width="8%" height="100%" icon="gui/icons/swatter-icon.png"/>
                      <spacer width="3%" height="100%"/>
-                     <bubble proportion="1" height="100%" text="Cheems' Bat - will squash karts close by, slowing them down. Can also be used to remove parachutes and bombs."/>
+                     <bubble proportion="1" height="100%" text="Cheems's Bat - will squash karts close by, slowing them down. Can also be used to remove parachutes and bombs."/>
                 </div>
 
             </box>
