@@ -432,7 +432,11 @@
   <end-cameras>
     <camera type="static_follow_kart" xyz="45.1921 -10.70 -40.3967" distance="25"/>
     <camera type="static_follow_kart" xyz="90.5221 -16.41 -13.4667" distance="25"/>
-    <camera type="static_follow_kart" xyz="13.20 -15.00 -7.8467" distance="38"/>
-    <camera type="ahead_of_kart" xyz="-26.9309 -15.00 5.7937" distance="14"/>
+    <camera type="static_follow_kart" xyz="12.18 -15.00 -7.8467" distance="42"/>
+    <camera type="static_follow_kart" xyz="-66.5464 -8.45 30.989" distance="55"/>
+    <camera type="static_follow_kart" xyz="-117.736 -17.14 -8.371" distance="40"/>
+    <camera type="static_follow_kart" xyz="-83.0511 -7.79 -157.339" distance="110"/>
+    <camera type="static_follow_kart" xyz="34.8633 6.64204 -134.295" distance="60"/>
+    <camera type="static_follow_kart" xyz="-25.2867 -1.59796 -68.4643" distance="50"/>
   </end-cameras>
 </scene>
