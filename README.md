@@ -10,7 +10,7 @@ _Please note that this is not exactly a special modification, anyone can do this
 
 There are no [releases](https://github.com/dylanf319/Dylan-s_STK-Files/releases) yet due to multiple commit changes almost every day.
 
-1. So for now you should download the source code from in .zip file [[<> Code?]](https://github.com/dylanf319/Dylan-s_STK-Files)
+1. So for now you should download the source code from in .zip file [[<> Code▾]](https://github.com/dylanf319/Dylan-s_STK-Files)
 
 2. move files directories
 
