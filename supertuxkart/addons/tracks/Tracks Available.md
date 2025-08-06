@@ -169,6 +169,11 @@ _
 <img width="104" height="81" alt="image" src="https://github.com/user-attachments/assets/ccfe7692-967f-41a0-8f6c-0cffbcd78479" />
 
 _
+### Lost Bamboo Thicket
+
+<img width="103" height="79" alt="image" src="https://github.com/user-attachments/assets/979c0c10-8839-4d83-b8a7-5b094f20cadb" />
+
+_
 ### Messy Pond
 
 <img width="103" height="77" alt="image" src="https://github.com/user-attachments/assets/d4b62010-95d7-4758-8fa2-f7fcec416f0e" />
@@ -422,5 +427,6 @@ _
 ### X Kart 1
 
 <img width="94" height="72" alt="image" src="https://github.com/user-attachments/assets/877f92df-923f-4a8a-b0d5-0cba00fff298" />
+
 
 _
