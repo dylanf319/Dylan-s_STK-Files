@@ -35,11 +35,12 @@ _
 _
 ### Old Tux 0.8.1
 
-<img width="512" height="512" alt="rtt_6182661" src="https://github.com/user-attachments/assets/4c8028c4-d453-4e6a-a509-3b07840ced4f" />
+<img width="512" height="512" alt="rtt_87691" src="https://github.com/user-attachments/assets/70ce33b4-b8f4-499d-9a97-ccd22b225a4d" />
 
 _
 ### Tux 3000
 
 <img width="512" height="512" alt="rtt_6265113" src="https://github.com/user-attachments/assets/bfc6a2c6-8258-4921-a82a-cfed9e41f684" />
+
 
 _
