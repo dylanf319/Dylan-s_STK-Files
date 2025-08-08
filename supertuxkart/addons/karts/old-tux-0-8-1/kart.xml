@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<kart name="Old Tux 0.8.1" version="3" model-file="tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="tuxkartshadow.png" type="medium" groups="Add-Ons VIP" rgb="0.75 0.00 0.00" revision="3">
+<kart name="Old Tux 0.8.1" version="3" model-file="tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="tuxkartshadow.png" type="medium" groups="Add-Ons" rgb="0.75 0.00 0.00" revision="4">
     <sounds engine="custom" file="Engine_Franchesco.ogg" rolloff="0.2" volume="1.0" positional="y"/>
     <animations left="0" straight="20" right="40" start-winning="80" end-winning="335" start-losing="486" start-losing-loop="832" end-losing="852"/>
     <wheels>
