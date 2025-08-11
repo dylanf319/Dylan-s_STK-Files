@@ -419,6 +419,11 @@ _
 <img width="104" height="79" alt="image" src="https://github.com/user-attachments/assets/db8188ae-dde7-47bb-a0a6-d947e574d32f" />
 
 _
+### Volcan Island (2020 Upgrade)
+
+<img width="91" height="72" alt="image" src="https://github.com/user-attachments/assets/08fe0e61-32c1-41a5-b0fe-840f25811d8c" />
+
+_
 ### Woodromo
 
 <img width="107" height="81" alt="image" src="https://github.com/user-attachments/assets/f3409b29-e0b6-4a2c-9484-019d9ba05ff8" />
@@ -430,3 +435,4 @@ _
 
 
 _
+
