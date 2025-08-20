@@ -1,3 +1,8 @@
+### Alternative Tux
+
+<img width="512" height="512" alt="rtt_1815454" src="https://github.com/user-attachments/assets/cbfa5349-ea62-4d2a-a12d-a6dadcc9076e" />
+
+_
 ### Among Us
 
 <img width="512" height="512" alt="rtt_5964163" src="https://github.com/user-attachments/assets/720a9771-e784-431e-8594-835463a2fd2d" />
@@ -8,6 +13,11 @@ _
 <img width="512" height="512" alt="rtt_6038687" src="https://github.com/user-attachments/assets/124f7f31-a1bf-406d-ae1c-a25d5c2ae858" />
 
 _
+### Evil Tux-V1
+
+<img width="512" height="512" alt="rtt_1825834" src="https://github.com/user-attachments/assets/5141268b-7dc8-4a10-8f52-c2f0bb9af4af" />
+
+_
 ### Fire Tux
 
 <img width="512" height="512" alt="rtt_6069385" src="https://github.com/user-attachments/assets/f32ab8a9-ccc4-441d-b012-529c8192a683" />
@@ -15,7 +25,7 @@ _
 _
 ### Mr Iceblock
 
-<img width="240" height="180" alt="Capture" src="https://github.com/user-attachments/assets/59d23c8f-ddff-4c53-b0b8-9014893e03d7" />
+<img width="512" height="512" alt="rtt_1836177" src="https://github.com/user-attachments/assets/1bf43084-80c9-4ff2-aef6-0741684e7184" />
 
 _
 ### Negative Tux
@@ -30,7 +40,7 @@ _
 _
 ### Old Tux
 
-<img width="512" height="512" alt="rtt_6162107" src="https://github.com/user-attachments/assets/f59d22d4-4c79-43f7-bdd9-20e43f13ebe7" />
+<img width="512" height="512" alt="rtt_653198" src="https://github.com/user-attachments/assets/18b32f81-1df7-4754-9ca5-b48ea71a0d20" />
 
 _
 ### Old Tux 0.8.1
@@ -44,3 +54,4 @@ _
 
 
 _
+
