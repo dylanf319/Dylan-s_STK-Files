@@ -16,7 +16,7 @@
   <object id="Circle.013" type="animation" xyz="133.99 17.34 85.02" hpr="0.0 -47.4 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="start_sign.spm" shadow-pass="false" skeletal-animation="false" if="isNotReverse">
     <animated-texture name="stkflag_greenCheckBorard_a.png" dx="0.08000"  dy="0.20000" />
   </object>
-  <object id="Circle.048" type="animation" xyz="134.01 17.34 85.00" hpr="-0.0 132.6 -0.0" scale="1.00 1.00 1.00" interaction="ghost" model="start_sign_reverse.spm" shadow-pass="false" skeletal-animation="false" if="isReverse">
+  <object id="Circle.048" type="animation" xyz="134.01 17.34 85.00" hpr="0.0 132.6 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="start_sign_reverse.spm" shadow-pass="false" skeletal-animation="false" if="isReverse">
     <animated-texture name="stkflag_greenCheckBorard_a.png" dx="0.08000"  dy="0.20000" />
   </object>
   <object type="movable" id="Cube.009" xyz="-87.49 6.92 124.86" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"
@@ -25,7 +25,7 @@
           shape="sphere" mass="5.0" model="beachball_playable_a.spm" skeletal-animation="false"/>
   <object type="movable" id="Cube.023" xyz="85.15 16.98 -67.31" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"
           shape="sphere" mass="5.0" model="beachball_playable_b.spm" skeletal-animation="false"/>
-  <object id="Cube.025" type="animation" xyz="-28.66 14.03 -207.65" hpr="10.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="airbing_512.spm" skeletal-animation="false">
+  <object id="Cube.025" type="animation" xyz="-28.50 15.46 -1042.57" hpr="10.0 -0.0 -0.0" scale="1.00 1.00 1.00" interaction="ghost" model="airbing_512.spm" skeletal-animation="false">
     <animated-texture name="gfx_lightBlinker_b.png" dy="0.50000"  animByStep="true" dt="0.500" />
     <curve channel="LocX" interpolation="linear" extend="cyclic">
       <p c="1.000 -28.656"/>
@@ -49,7 +49,7 @@
       <p c="796.000 14.071"/>
     </curve>
   </object>
-  <object id="Cube.026" type="animation" xyz="-28.66 14.03 -207.65" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="airplane_minii_contrail.spm" skeletal-animation="false">
+  <object id="Cube.026" type="animation" xyz="-28.50 15.46 -1042.57" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="airplane_minii_contrail.spm" skeletal-animation="false">
     <animated-texture name="clouds.png" dx="-0.45000" />
     <curve channel="LocX" interpolation="linear" extend="cyclic">
       <p c="1.000 -28.656"/>
@@ -77,7 +77,7 @@
           shape="sphere" mass="5.0" model="beachball_playable_c.spm" skeletal-animation="false"/>
   <object type="movable" id="Cube.028" xyz="53.79 5.15 152.89" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"
           shape="sphere" mass="5.0" model="beachball_playable_a.spm" skeletal-animation="false"/>
-  <object id="Cube.029" type="animation" xyz="49.06 6.39 131.32" hpr="0.0 -35.5 0.0" scale="0.40 0.40 0.40" interaction="ghost" model="beachball_play_2.spm" skeletal-animation="false">
+  <object id="Cube.029" type="animation" xyz="31.84 6.21 161.80" hpr="1.7 -47.0 -169.2" scale="0.40 0.40 0.40" interaction="ghost" model="beachball_play_2.spm" skeletal-animation="false">
     <curve channel="LocX" interpolation="bezier" extend="cyclic">
       <p c="1.000 49.056" h1="-9.932 49.056" h2="11.932 49.056"/>
       <p c="29.000 42.011" h1="18.068 45.073" h2="41.884 38.403"/>
@@ -121,7 +121,7 @@
           shape="sphere" mass="5.0" model="beachball_playable_b.spm" skeletal-animation="false"/>
   <object type="movable" id="Cube.032" xyz="85.20 17.18 -73.76" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00"
           shape="sphere" mass="5.0" model="beachball_playable_c.spm" skeletal-animation="false"/>
-  <object id="Cube.034" type="animation" xyz="-30.00 3.42 100.22" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="static" shape="box" model="blast_object.spm" skeletal-animation="false">
+  <object id="Cube.034" type="animation" xyz="-30.00 5.65 100.22" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="static" shape="box" model="blast_object.spm" skeletal-animation="false">
     <curve channel="LocX" interpolation="bezier" extend="cyclic">
       <p c="1.000 -30.000" h1="-114.171 -30.000" h2="116.171 -30.000"/>
       <p c="296.000 -30.000" h1="217.918 -30.000" h2="311.616 -30.000"/>
@@ -153,7 +153,7 @@
       <p c="796.000 3.419" h1="770.233 3.419" h2="821.767 3.419"/>
     </curve>
   </object>
-  <object id="Cube.050" type="animation" xyz="101.06 26.86 -63.80" hpr="0.0 -0.0 -48.7" scale="1.00 1.00 1.00" interaction="ghost" model="bagage_carrousel_1_a.spm" skeletal-animation="false">
+  <object id="Cube.050" type="animation" xyz="101.06 26.86 -63.80" hpr="3.5 -3.0 -48.7" scale="1.00 1.00 1.00" interaction="ghost" model="bagage_carrousel_1_a.spm" skeletal-animation="false">
     <curve channel="RotX" interpolation="linear" extend="cyclic">
       <p c="1.000 -0.000"/>
       <p c="78.000 -0.000"/>
@@ -170,7 +170,7 @@
       <p c="156.000 360.000"/>
     </curve>
   </object>
-  <object id="Cube.051" type="animation" xyz="81.17 26.86 -63.80" hpr="0.0 -0.0 -48.7" scale="1.00 1.00 1.00" interaction="ghost" model="bagage_carrousel_1_a.spm" skeletal-animation="false">
+  <object id="Cube.051" type="animation" xyz="81.17 26.86 -63.80" hpr="3.5 -3.0 -48.7" scale="1.00 1.00 1.00" interaction="ghost" model="bagage_carrousel_1_a.spm" skeletal-animation="false">
     <curve channel="RotX" interpolation="linear" extend="cyclic">
       <p c="1.000 -0.000"/>
       <p c="78.000 -0.000"/>
@@ -187,7 +187,9 @@
       <p c="156.000 360.000"/>
     </curve>
   </object>
-  <object id="Cylinder.001" type="animation" xyz="-28.45 15.89 954.80" hpr="-89.5 -21.6 -0.1" scale="1.00 1.00 1.00" interaction="ghost" model="airbing_behemoth.spm" skeletal-animation="false">
+  <object id="Cube.052" type="animation" xyz="-20.77 7.19 39.32" hpr="0.0 -0.4 0.0" scale="0.60 0.60 0.60" interaction="ghost" model="landingField_fence_ghost.spm" skeletal-animation="false">
+  </object>
+  <object id="Cylinder.001" type="animation" xyz="-28.45 15.89 85.41" hpr="-79.9 -21.2 -3.6" scale="1.00 1.00 1.00" interaction="ghost" model="airbing_behemoth.spm" skeletal-animation="false">
     <animated-texture name="gfx_lightBlinker_b.png" dy="0.50000"  animByStep="true" dt="0.500" />
     <curve channel="LocX" interpolation="bezier" extend="cyclic">
       <p c="1.000 -28.454" h1="-309.377 -28.454" h2="311.377 -28.454"/>
@@ -225,7 +227,7 @@
   </object>
   <object id="Plane.005" type="animation" xyz="-30.34 6.46 11.28" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="runway_mark.spm" skeletal-animation="false">
   </object>
-  <object id="Plane.007" type="animation" xyz="-28.45 15.89 954.80" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="airplane_contrail.spm" skeletal-animation="false">
+  <object id="Plane.007" type="animation" xyz="-28.45 15.89 85.41" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="airplane_contrail.spm" skeletal-animation="false">
     <animated-texture name="clouds.png" dx="-0.45000" />
     <curve channel="LocX" interpolation="bezier" extend="cyclic">
       <p c="1.000 -28.454" h1="-264.000 -28.454" h2="266.000 -28.454"/>
@@ -245,7 +247,7 @@
   </object>
   <object id="Plane.084" type="animation" xyz="-30.34 6.46 11.28" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="runway_skidway.spm" skeletal-animation="false">
   </object>
-  <object id="Sphere" type="animation" xyz="35.45 6.80 163.87" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" model="beachball_play.spm" skeletal-animation="false">
+  <object id="Sphere" type="animation" xyz="48.36 13.35 139.70" hpr="-109.6 115.5 10.1" scale="1.00 1.00 1.00" interaction="ghost" model="beachball_play.spm" skeletal-animation="false">
     <curve channel="LocX" interpolation="bezier" extend="cyclic">
       <p c="1.000 35.450" h1="-4.662 35.450" h2="7.362 35.450"/>
       <p c="17.000 39.097" h1="10.738 37.273" h2="21.706 40.469"/>
@@ -300,14 +302,14 @@
   <camera far="2500.0"/>
   <checks>
     <check-lap kind="lap" same-group="0" other-ids="1" />
-    <check-line kind="activate" other-ids="2 3" p1="-97.20 115.17" p2="-99.68 140.46"
-                min-height="4.56" same-group="1"/>
-    <check-line kind="activate" other-ids="4" p1="-70.26 16.93" p2="-61.06 40.16"
-                min-height="-4.60" same-group="2 3"/>
-    <check-line kind="activate" other-ids="4" p1="-83.69 -9.69" p2="-105.39 2.70"
-                min-height="6.16" same-group="2 3"/>
-    <check-line kind="activate" other-ids="0" p1="39.86 -26.75" p2="58.75 -32.94"
-                min-height="13.78" same-group="4"/>
+    <check-line kind="activate" other-ids="2 3" p1="-97.20 4.56 115.17" p2="-99.68 4.56 140.46"
+                same-group="1"/>
+    <check-line kind="activate" other-ids="4" p1="-70.26 -4.60 16.93" p2="-61.06 -4.60 40.16"
+                same-group="2 3"/>
+    <check-line kind="activate" other-ids="4" p1="-83.69 6.16 -9.69" p2="-105.39 6.16 2.70"
+                same-group="2 3"/>
+    <check-line kind="activate" other-ids="0" p1="39.86 13.78 -26.75" p2="58.75 13.78 -32.94"
+                same-group="4"/>
     <cannon p1="126.57 7.88 11.74" p2="133.46 7.88 18.79" target-p1="129.98 10.68 -22.28" target-p2="139.57 10.68 -20.02">
     <curve channel="LocXYZ" speed="50.00" interpolation="bezier" extend="const">
       <point c="130.257996 10.339101 15.117710" h1="128.794022 10.339101 16.661005" h2="130.989975 10.339101 14.346063" />
@@ -480,7 +482,7 @@
   <!-- Hair system Plane.013, contains 60 particles -->
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="66.23 24.95 -45.34" hpr="79.2 -133.8 0.0" scale="1.44 1.44 1.44"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="99.35 18.69 -14.39" hpr="74.7 27.7 -0.0" scale="1.60 1.60 1.60"/>
-  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="101.74 11.08 36.80" hpr="78.8 -161.7 0.0" scale="1.25 1.25 1.25"/>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="101.74 11.08 36.80" hpr="78.8 -161.7 -0.0" scale="1.25 1.25 1.25"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="119.61 17.17 -5.80" hpr="76.1 50.8 0.0" scale="1.80 1.80 1.80"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="63.79 15.33 -14.86" hpr="80.9 -14.3 0.0" scale="1.88 1.88 1.88"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="67.08 24.80 -40.93" hpr="78.7 -20.9 0.0" scale="1.20 1.20 1.20"/>
@@ -502,7 +504,7 @@
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="99.15 30.46 -34.06" hpr="82.5 117.2 0.0" scale="1.51 1.51 1.51"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="77.85 15.48 -62.05" hpr="84.1 -129.2 -0.0" scale="1.25 1.25 1.25"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="115.44 7.98 -2.59" hpr="81.5 28.5 0.0" scale="1.66 1.66 1.66"/>
-  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="113.90 17.65 -56.34" hpr="74.8 170.0 -0.0" scale="1.33 1.33 1.33"/>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="113.90 17.65 -56.34" hpr="74.8 170.0 0.0" scale="1.33 1.33 1.33"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="97.82 10.14 29.60" hpr="76.4 92.1 0.0" scale="1.79 1.79 1.79"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="107.22 8.57 3.89" hpr="75.1 26.8 -0.0" scale="1.28 1.28 1.28"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="107.37 21.61 -24.24" hpr="74.8 96.0 0.0" scale="1.59 1.59 1.59"/>
@@ -515,11 +517,11 @@
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="124.88 16.35 -23.16" hpr="78.7 18.0 0.0" scale="1.51 1.51 1.51"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="116.69 11.52 37.62" hpr="83.0 -88.4 0.0" scale="1.51 1.51 1.51"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="106.97 10.13 3.57" hpr="76.1 26.2 0.0" scale="1.79 1.79 1.79"/>
-  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="122.14 10.31 31.44" hpr="74.8 -128.0 -0.0" scale="1.89 1.89 1.89"/>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="122.14 10.31 31.44" hpr="74.8 -128.0 0.0" scale="1.89 1.89 1.89"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="126.36 12.44 -22.41" hpr="83.8 30.2 0.0" scale="1.45 1.45 1.45"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="61.81 24.70 -32.42" hpr="76.1 6.4 0.0" scale="1.80 1.80 1.80"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="113.77 19.29 -57.14" hpr="74.8 132.5 0.0" scale="1.33 1.33 1.33"/>
-  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="56.46 18.72 -41.09" hpr="74.9 -140.3 0.0" scale="1.89 1.89 1.89"/>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="56.46 18.72 -41.09" hpr="74.9 -140.3 -0.0" scale="1.89 1.89 1.89"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="116.40 17.66 -9.32" hpr="74.7 -133.1 -0.0" scale="1.28 1.28 1.28"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="120.81 17.71 -47.28" hpr="76.3 -171.6 -0.0" scale="1.80 1.80 1.80"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="123.37 9.29 30.45" hpr="75.8 -144.9 -0.0" scale="1.32 1.32 1.32"/>
@@ -533,7 +535,7 @@
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="62.10 18.64 -50.92" hpr="74.8 -147.1 -0.0" scale="1.56 1.56 1.56"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="78.53 21.62 -60.74" hpr="74.9 -138.5 -0.0" scale="1.84 1.84 1.84"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="114.51 9.30 -1.74" hpr="78.0 10.4 -0.0" scale="1.47 1.47 1.47"/>
-  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="63.18 20.19 -49.59" hpr="74.9 -139.9 -0.0" scale="1.97 1.97 1.97"/>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="63.18 20.19 -49.59" hpr="74.9 -139.9 0.0" scale="1.97 1.97 1.97"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="107.74 22.05 -31.44" hpr="75.4 113.8 0.0" scale="1.61 1.61 1.61"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="124.86 16.37 -41.80" hpr="76.2 113.8 0.0" scale="1.56 1.56 1.56"/>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="60.38 15.41 -19.32" hpr="79.7 -11.1 0.0" scale="1.61 1.61 1.61"/>
@@ -742,7 +744,7 @@
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="-89.69 17.71 110.79" hpr="76.6 56.5 0.0" scale="1.23 1.23 1.23"/>
   <!-- END Hair system Plane.036 -->
 
-  <object type="sfx-emitter" id="Empty.002" sound="airplane_jetEngine.ogg" rolloff="0.030" volume="1.0" max_dist="250.0" xyz="-28.45 6.44 974.80" hpr="0.0 -0.0 0.0" scale="37.90 37.90 37.90">
+  <object type="sfx-emitter" id="Empty.002" sound="airplane_jetEngine.ogg" rolloff="0.030" volume="1.0" max_dist="250.0" xyz="-28.45 6.44 105.41" hpr="0.0 -0.0 0.0" scale="37.90 37.90 37.90">
     <curve channel="LocX" interpolation="bezier" extend="cyclic">
       <p c="1.000 -28.454" h1="-203.667 -28.454" h2="205.667 -28.454"/>
       <p c="615.000 -28.454" h1="410.333 -28.454" h2="819.667 -28.454"/>
@@ -842,7 +844,7 @@
                  forwards-distance ="2.00"
                  sidewards-distance="3.00"
                  upwards-distance  ="1.10"/>
-  <library name="gfx_jetblastGround_a" id="gfx_jetblastGround_a_main_proxy" xyz="-30.00 -20.00 140.00" hpr="-0.0 90.0 0.0" scale="1.00 1.00 1.00">
+  <library name="gfx_jetblastGround_a" id="gfx_jetblastGround_a_main_proxy" xyz="-30.00 -8.43 100.00" hpr="-0.0 90.0 0.0" scale="1.00 1.00 1.00">
     <curve channel="LocX" interpolation="bezier" extend="cyclic">
       <p c="1.000 -30.000" h1="-104.021 -30.000" h2="106.021 -30.000"/>
       <p c="270.000 -30.000" h1="238.767 -30.000" h2="276.247 -30.000"/>
@@ -938,7 +940,7 @@
   </library>
   <library name="stklib_aztekGirlCheering_a" id="stklib_aztekGirlCheering_a_main_proxy.002" xyz="73.42 14.09 -76.13" hpr="0.0 30.4 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_aztekGirlCheering_a" id="stklib_aztekGirlCheering_a_main_proxy.003" xyz="96.66 25.39 -66.95" hpr="-0.0 104.7 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_aztekGirlCheering_a" id="stklib_aztekGirlCheering_a_main_proxy.003" xyz="96.66 25.39 -66.95" hpr="0.0 104.7 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_aztekVase_a" id="stklib_aztekVase_a_main_proxy" xyz="93.85 25.38 -61.75" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
   </library>
@@ -952,32 +954,6 @@
   </library>
   <library name="stklib_beachBarMenu_a" id="stklib_beachBarMenu_a_main_proxy.001" xyz="-110.97 4.23 136.41" hpr="0.0 -2.9 -0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_beachGuy_a" id="stklib_beachGuy_a_main_proxy" xyz="-21.14 4.61 121.74" hpr="0.0 -41.1 0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachGuy_a" id="stklib_beachGuy_a_main_proxy.001" xyz="7.90 4.36 111.57" hpr="-0.0 157.1 -0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachGuy_a" id="stklib_beachGuy_a_main_proxy.002" xyz="48.76 3.95 150.79" hpr="-0.0 157.1 -0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachGuy_a" id="stklib_beachGuy_a_main_proxy.003" xyz="-102.37 4.59 139.73" hpr="-0.0 -37.3 0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachGuy_a" id="stklib_beachGuy_a_main_proxy.004" xyz="83.70 26.41 -57.18" hpr="-0.0 -148.5 0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachGuy_a" id="stklib_beachGuy_a_main_proxy.005" xyz="75.01 14.07 -76.45" hpr="-0.0 -148.5 0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachWomen_a" id="stklib_beachWomen_a_main_proxy" xyz="35.49 4.33 164.03" hpr="-0.0 165.0 -0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachWomen_a" id="stklib_beachWomen_a_main_proxy.001" xyz="-99.66 4.70 140.52" hpr="-0.0 165.0 -0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachWomen_a" id="stklib_beachWomen_a_main_proxy.002" xyz="104.56 24.60 -55.39" hpr="0.0 -19.8 0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachWomen_a" id="stklib_beachWomen_a_main_proxy.004" xyz="36.38 3.53 143.52" hpr="0.0 -25.0 -0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachWomen_a" id="stklib_beachWomen_a_main_proxy.005" xyz="49.10 4.16 131.19" hpr="0.0 -30.0 -0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachWomen_a" id="stklib_beachWomen_a_main_proxy.006" xyz="-21.54 4.66 123.03" hpr="0.0 6.5 0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_beachWomen_a" id="stklib_beachWomen_a_main_proxy.007" xyz="-7.72 4.50 126.10" hpr="-0.0 -179.3 0.0" scale="1.00 1.00 1.00">
-  </library>
   <library name="stklib_electricalFence_a" id="stklib_electricalFence_a_main_proxy" xyz="-60.00 5.59 98.80" hpr="-0.0 -90.0 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_electricalFence_a" id="stklib_electricalFence_a_main_proxy.001" xyz="-70.00 6.59 4.80" hpr="-0.0 -177.6 -0.0" scale="1.00 1.00 1.00">
@@ -990,6 +966,8 @@
   </library>
   <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.002" xyz="-70.00 6.60 41.78" hpr="-0.0 178.8 -0.0" scale="1.00 1.00 1.00">
   </library>
+  <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.003" xyz="5.36 6.48 39.84" hpr="-0.0 -90.4 0.0" scale="0.60 0.60 0.60">
+  </library>
   <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.004" xyz="-20.00 5.60 98.78" hpr="-0.0 -90.0 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.005" xyz="-70.00 6.60 -15.22" hpr="-0.0 -176.7 -0.0" scale="1.00 1.00 1.00">
@@ -999,6 +977,18 @@
   <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.007" xyz="-70.00 6.60 -35.22" hpr="-0.0 -177.1 -0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.008" xyz="0.00 5.60 98.78" hpr="-0.0 -90.0 0.0" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.009" xyz="-68.94 6.48 39.41" hpr="-0.0 -90.0 0.0" scale="0.60 0.60 0.60">
+  </library>
+  <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.010" xyz="-11.31 6.48 39.72" hpr="-0.0 -90.4 0.0" scale="0.60 0.60 0.60">
+  </library>
+  <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.011" xyz="-68.94 6.48 44.71" hpr="0.0 -77.7 -0.0" scale="0.60 0.60 0.60">
+  </library>
+  <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.012" xyz="-27.98 6.48 39.60" hpr="-0.0 -90.4 0.0" scale="0.60 0.60 0.60">
+  </library>
+  <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.013" xyz="-44.58 6.48 39.48" hpr="0.0 -83.2 -0.0" scale="0.60 0.60 0.60">
+  </library>
+  <library name="stklib_electricalFencePost_a" id="stklib_electricalFencePost_a_main_proxy.014" xyz="-57.49 6.48 42.26" hpr="0.0 -77.7 -0.0" scale="0.60 0.60 0.60">
   </library>
   <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="52.02 16.89 -1.93" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
   </library>
@@ -1044,17 +1034,17 @@
   </library>
   <library name="stklib_fitchBarrel_a" id="stklib_fitchBarrel_a_main_proxy.020" xyz="185.59 8.44 66.04" hpr="2.0 -2.1 2.1" scale="1.30 1.30 1.30">
   </library>
-  <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy" xyz="-104.55 4.50 138.33" hpr="-0.0 145.0 -0.0" scale="1.36 1.36 1.36">
+  <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy" xyz="-104.55 4.50 138.33" hpr="0.0 145.0 0.0" scale="1.36 1.36 1.36">
   </library>
   <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy.001" xyz="103.74 5.55 167.43" hpr="-0.0 -155.0 0.0" scale="1.36 1.36 1.36">
   </library>
   <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy.002" xyz="76.68 5.51 135.73" hpr="0.0 50.5 0.0" scale="1.36 1.36 1.36">
   </library>
-  <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy.003" xyz="51.87 4.13 132.42" hpr="-0.0 -34.5 0.0" scale="1.36 1.36 1.36">
+  <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy.003" xyz="51.87 4.13 132.42" hpr="0.0 -34.5 -0.0" scale="1.36 1.36 1.36">
   </library>
   <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy.004" xyz="31.66 3.92 162.18" hpr="-0.0 145.5 -0.0" scale="1.36 1.36 1.36">
   </library>
-  <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy.005" xyz="-69.62 3.34 141.92" hpr="-0.0 145.0 -0.0" scale="1.36 1.36 1.36">
+  <library name="stklib_gnuMeditation_a" id="stklib_gnuMeditation_a_main_proxy.005" xyz="-69.62 3.34 141.92" hpr="0.0 145.0 0.0" scale="1.36 1.36 1.36">
   </library>
   <library name="stklib_greenRadioTower_a" id="stklib_greenRadioTower_a_main_proxy" xyz="16.73 7.74 2.46" hpr="-0.0 -90.0 0.0" scale="1.00 1.00 1.00">
   </library>
@@ -1062,9 +1052,9 @@
   </library>
   <library name="stklib_hexajet_a" id="stklib_hexajet_a_main_proxy" xyz="30.57 11.67 -168.34" hpr="0.0 -35.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_jetBlast_a" id="stklib_jetBlast_a_main_proxy" xyz="16.27 3.55 107.20" hpr="0.0 50.5 0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_jetBlast_a" id="stklib_jetBlast_a_main_proxy" xyz="16.27 3.55 107.20" hpr="-0.0 50.5 -0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_jetBlast_a" id="stklib_jetBlast_a_main_proxy.001" xyz="-64.40 4.96 105.88" hpr="-0.0 140.7 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_jetBlast_a" id="stklib_jetBlast_a_main_proxy.001" xyz="-64.40 4.96 105.88" hpr="0.0 140.7 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_jungleTree_a" id="stklib_jungleTree_a_main_proxy" xyz="68.47 17.45 97.69" hpr="0.0 -0.0 0.0" scale="1.77 1.77 1.77">
   </library>
@@ -1098,15 +1088,15 @@
   </library>
   <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.004" xyz="244.33 9.06 374.61" hpr="-5.7 -0.3 1.7" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.005" xyz="260.30 7.28 359.40" hpr="0.0 -120.7 -0.0" scale="1.10 1.10 1.10">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.005" xyz="260.30 7.28 359.40" hpr="-0.0 -120.7 0.0" scale="1.10 1.10 1.10">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.006" xyz="266.93 5.16 339.38" hpr="0.0 -120.7 -0.0" scale="0.81 0.81 0.81">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.006" xyz="266.93 5.16 339.38" hpr="-0.0 -120.7 0.0" scale="0.81 0.81 0.81">
   </library>
   <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.007" xyz="251.88 8.79 362.67" hpr="-5.1 -160.0 -1.8" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.008" xyz="258.29 8.39 381.23" hpr="0.0 -159.7 -0.0" scale="1.21 1.21 1.21">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.008" xyz="258.29 8.39 381.23" hpr="-0.0 -159.7 0.0" scale="1.21 1.21 1.21">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.009" xyz="-257.13 4.68 319.65" hpr="0.0 84.2 0.0" scale="1.21 1.21 1.21">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.009" xyz="-257.13 4.68 319.65" hpr="-0.0 84.2 -0.0" scale="1.21 1.21 1.21">
   </library>
   <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.010" xyz="-237.64 5.08 322.08" hpr="9.7 83.7 15.4" scale="1.00 1.00 1.00">
   </library>
@@ -1122,17 +1112,17 @@
   </library>
   <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.016" xyz="-227.60 4.95 319.09" hpr="-0.0 -116.1 -0.0" scale="1.21 1.21 1.21">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.017" xyz="146.49 10.55 -131.35" hpr="0.0 64.7 0.0" scale="1.10 1.10 1.10">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.017" xyz="146.49 10.55 -131.35" hpr="-0.0 64.7 -0.0" scale="1.10 1.10 1.10">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.018" xyz="138.42 11.34 -125.87" hpr="0.0 84.4 0.0" scale="0.69 0.69 0.69">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.018" xyz="138.42 11.34 -125.87" hpr="-0.0 84.4 -0.0" scale="0.69 0.69 0.69">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.019" xyz="138.42 11.34 -147.75" hpr="0.0 84.4 0.0" scale="0.73 0.73 0.73">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.019" xyz="138.42 11.34 -147.75" hpr="-0.0 84.4 -0.0" scale="0.73 0.73 0.73">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.020" xyz="146.49 10.55 -153.23" hpr="0.0 64.7 0.0" scale="0.58 0.58 0.58">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.020" xyz="146.49 10.55 -153.23" hpr="-0.0 64.7 -0.0" scale="0.58 0.58 0.58">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.021" xyz="138.19 11.34 -92.20" hpr="0.0 84.4 0.0" scale="0.69 0.69 0.69">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.021" xyz="138.19 11.34 -92.20" hpr="-0.0 84.4 -0.0" scale="0.69 0.69 0.69">
   </library>
-  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.022" xyz="143.62 11.34 -78.97" hpr="0.0 84.4 0.0" scale="0.85 0.85 0.85">
+  <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.022" xyz="143.62 11.34 -78.97" hpr="-0.0 84.4 -0.0" scale="0.85 0.85 0.85">
   </library>
   <library name="stklib_lowPalmTree_a" id="stklib_lowPalmTree_a_main_proxy.023" xyz="-71.08 6.68 -11.87" hpr="-10.0 -116.1 24.5" scale="0.88 0.88 0.88">
   </library>
@@ -1150,19 +1140,19 @@
   </library>
   <library name="stklib_luggage_a" id="stklib_luggage_a_main_proxy.004" xyz="102.07 13.62 -80.84" hpr="-4.0 -136.9 -1.2" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_luggage_a" id="stklib_luggage_a_main_proxy.005" xyz="101.30 13.64 -80.92" hpr="0.0 6.7 0.0" scale="0.73 0.73 0.73">
+  <library name="stklib_luggage_a" id="stklib_luggage_a_main_proxy.005" xyz="101.30 13.64 -80.92" hpr="-0.0 6.7 -0.0" scale="0.73 0.73 0.73">
   </library>
   <library name="stklib_luggage_a" id="stklib_luggage_a_main_proxy.006" xyz="78.94 14.14 -79.54" hpr="1.6 175.2 -0.1" scale="0.73 0.73 0.73">
   </library>
   <library name="stklib_luggage_a" id="stklib_luggage_a_main_proxy.007" xyz="78.20 14.11 -79.77" hpr="2.6 5.9 2.9" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_monkeyCheering_a" id="stklib_monkeyCheering_a_main_proxy" xyz="28.61 4.18 159.72" hpr="-0.0 145.0 -0.0" scale="1.70 1.70 1.70">
+  <library name="stklib_monkeyCheering_a" id="stklib_monkeyCheering_a_main_proxy" xyz="28.61 4.18 159.72" hpr="0.0 145.0 0.0" scale="1.70 1.70 1.70">
   </library>
   <library name="stklib_monkeyCheering_a" id="stklib_monkeyCheering_a_main_proxy.001" xyz="6.30 4.74 111.20" hpr="0.0 -17.9 0.0" scale="1.70 1.70 1.70">
   </library>
-  <library name="stklib_monkeyCheering_a" id="stklib_monkeyCheering_a_main_proxy.002" xyz="-58.82 5.31 107.94" hpr="0.0 36.4 0.0" scale="1.70 1.70 1.70">
+  <library name="stklib_monkeyCheering_a" id="stklib_monkeyCheering_a_main_proxy.002" xyz="-58.82 5.31 107.94" hpr="-0.0 36.4 -0.0" scale="1.70 1.70 1.70">
   </library>
-  <library name="stklib_monkeyCheering_a" id="stklib_monkeyCheering_a_main_proxy.003" xyz="80.34 26.82 -55.80" hpr="0.0 36.4 0.0" scale="1.70 1.70 1.70">
+  <library name="stklib_monkeyCheering_a" id="stklib_monkeyCheering_a_main_proxy.003" xyz="80.34 26.82 -55.80" hpr="-0.0 36.4 -0.0" scale="1.70 1.70 1.70">
   </library>
   <library name="stklib_oldschoolLamp_a" id="stklib_oldschoolLamp_a_main_proxy" xyz="-0.39 0.12 14.21" hpr="-0.0 90.0 0.0" scale="1.00 1.00 1.00">
   </library>
@@ -1202,7 +1192,7 @@
   </library>
   <library name="stklib_palmTree_a" id="stklib_palmTree_a_main_proxy.008" xyz="19.08 9.37 -6.03" hpr="0.0 -0.0 0.0" scale="0.72 0.72 0.72">
   </library>
-  <library name="stklib_palmTree_a" id="stklib_palmTree_a_main_proxy.009" xyz="104.00 9.37 65.95" hpr="0.0 56.2 0.0" scale="0.72 0.72 0.72">
+  <library name="stklib_palmTree_a" id="stklib_palmTree_a_main_proxy.009" xyz="104.00 9.37 65.95" hpr="-0.0 56.2 -0.0" scale="0.72 0.72 0.72">
   </library>
   <library name="stklib_palmTree_a" id="stklib_palmTree_a_main_proxy.010" xyz="45.51 20.72 73.17" hpr="0.0 -0.0 0.0" scale="0.72 0.72 0.72">
   </library>
@@ -1300,7 +1290,7 @@
   </library>
   <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.001" xyz="101.37 27.26 -67.07" hpr="-0.0 -94.9 -0.0" scale="0.75 0.75 0.75">
   </library>
-  <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.002" xyz="101.95 27.15 -76.61" hpr="0.0 4.0 0.0" scale="0.43 0.43 0.43">
+  <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.002" xyz="101.95 27.15 -76.61" hpr="-0.0 4.0 -0.0" scale="0.43 0.43 0.43">
   </library>
   <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.003" xyz="81.37 27.26 -78.71" hpr="-0.0 -135.2 -0.0" scale="0.94 0.94 0.94">
   </library>
@@ -1366,29 +1356,29 @@
   </library>
   <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.004" xyz="1.00 6.10 92.00" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.005" xyz="-62.00 6.10 32.00" hpr="-0.0 180.0 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.005" xyz="-62.00 6.10 32.00" hpr="0.0 180.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.006" xyz="-62.00 6.10 52.00" hpr="-0.0 180.0 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.006" xyz="-62.00 6.10 52.00" hpr="0.0 180.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.007" xyz="-62.00 6.10 72.00" hpr="-0.0 180.0 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.007" xyz="-62.00 6.10 72.00" hpr="0.0 180.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.008" xyz="-62.00 6.10 92.00" hpr="-0.0 180.0 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.008" xyz="-62.00 6.10 92.00" hpr="0.0 180.0 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.009" xyz="1.00 6.30 -8.00" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.010" xyz="-62.00 6.10 -8.00" hpr="-0.0 180.0 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.010" xyz="-62.00 6.10 -8.00" hpr="0.0 180.0 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.011" xyz="-30.40 6.10 35.00" hpr="-0.0 -90.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.012" xyz="-62.00 6.10 -28.00" hpr="-0.0 180.0 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.012" xyz="-62.00 6.10 -28.00" hpr="0.0 180.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.013" xyz="-62.00 6.10 -48.00" hpr="-0.0 180.0 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.013" xyz="-62.00 6.10 -48.00" hpr="0.0 180.0 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.014" xyz="-38.40 6.10 35.00" hpr="-0.0 -90.0 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.015" xyz="-22.40 6.10 35.00" hpr="-0.0 -90.0 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.016" xyz="-62.00 6.10 -68.00" hpr="-0.0 180.0 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.016" xyz="-62.00 6.10 -68.00" hpr="0.0 180.0 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_runwayBeacon_a" id="stklib_runwayBeacon_a_main_proxy.017" xyz="-14.40 6.10 35.00" hpr="-0.0 -90.0 0.0" scale="1.00 1.00 1.00">
   </library>
@@ -1422,7 +1412,7 @@
   </library>
   <library name="stklib_sagebrush_a" id="stklib_sagebrush_a_main_proxy.005" xyz="-85.66 2.45 149.32" hpr="9.8 -14.1 -2.8" scale="1.37 1.37 1.37">
   </library>
-  <library name="stklib_sagebrush_a" id="stklib_sagebrush_a_main_proxy.006" xyz="28.32 3.40 114.19" hpr="0.0 -156.0 -0.0" scale="1.79 1.79 1.79">
+  <library name="stklib_sagebrush_a" id="stklib_sagebrush_a_main_proxy.006" xyz="28.32 3.40 114.19" hpr="-0.0 -156.0 0.0" scale="1.79 1.79 1.79">
   </library>
   <library name="stklib_sagebrush_a" id="stklib_sagebrush_a_main_proxy.007" xyz="-48.47 5.10 101.98" hpr="-1.8 -105.1 -3.4" scale="0.90 0.90 0.90">
   </library>
@@ -1436,11 +1426,11 @@
   </library>
   <library name="stklib_saraVertical_a" id="stklib_saraVertical_a_main_proxy.002" xyz="141.13 21.60 -18.84" hpr="0.0 75.6 0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_saraVertical_a" id="stklib_saraVertical_a_main_proxy.003" xyz="46.92 24.10 -16.55" hpr="-0.0 -50.2 0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_saraVertical_a" id="stklib_saraVertical_a_main_proxy.003" xyz="46.92 24.10 -16.55" hpr="0.0 -50.2 -0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_saraVertical_a" id="stklib_saraVertical_a_main_proxy.004" xyz="41.00 24.27 -35.56" hpr="-0.0 -87.5 0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_saraVertical_a" id="stklib_saraVertical_a_main_proxy.004" xyz="41.00 24.27 -35.56" hpr="0.0 -87.5 -0.0" scale="1.00 1.00 1.00">
   </library>
-  <library name="stklib_saraVertical_a" id="stklib_saraVertical_a_main_proxy.005" xyz="46.51 24.27 -54.29" hpr="0.0 -120.8 -0.0" scale="1.00 1.00 1.00">
+  <library name="stklib_saraVertical_a" id="stklib_saraVertical_a_main_proxy.005" xyz="46.51 24.27 -54.29" hpr="-0.0 -120.8 0.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_saraVertical_a" id="stklib_saraVertical_a_main_proxy.006" xyz="-145.18 15.64 111.84" hpr="0.0 -40.9 0.0" scale="1.00 1.00 1.00">
   </library>
@@ -1506,7 +1496,7 @@
   </library>
   <library name="stklib_tropicalPlant_a" id="stklib_tropicalPlant_a_main_proxy.001" xyz="7.43 6.76 -10.07" hpr="0.0 -0.0 0.0" scale="1.30 1.30 1.30">
   </library>
-  <library name="stklib_tropicalPlant_a" id="stklib_tropicalPlant_a_main_proxy.002" xyz="3.79 6.48 -84.06" hpr="0.0 65.9 0.0" scale="1.30 1.30 1.30">
+  <library name="stklib_tropicalPlant_a" id="stklib_tropicalPlant_a_main_proxy.002" xyz="3.79 6.48 -84.06" hpr="-0.0 65.9 -0.0" scale="1.30 1.30 1.30">
   </library>
   <library name="stklib_umbrellaBeach_a" id="stklib_umbrellaBeach_a_main_proxy" xyz="44.44 3.52 173.41" hpr="7.8 -0.1 6.5" scale="1.00 1.00 1.00">
   </library>
@@ -1572,6 +1562,7 @@
   </library>
   <library name="stklib_woodLittleBridge_a" id="stklib_woodLittleBridge_a_main_proxy.017" xyz="222.48 5.83 109.90" hpr="0.0 45.0 0.0" scale="0.72 1.12 0.52">
   </library>
+  <end-cameras>
     <camera type="static_follow_kart" xyz="106.799 9.84831 94.508" distance="50"/>
     <camera type="static_follow_kart" xyz="16.7946 28.7483 132.31" distance="75"/>
     <camera type="static_follow_kart" xyz="-96.1533 5.95831 134.901" distance="50"/>
