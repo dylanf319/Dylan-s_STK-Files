@@ -507,14 +507,17 @@
   <library name="stklib_stkVertical_a" id="stklib_stkVertical_a_main_proxy.001" xyz="5.62 9.73 -2.96" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
   </library>
 <end-cameras>
-    <camera type="static_follow_kart" xyz="3.37779 1.19831 23.1944" distance="40"/>
+    <camera type="static_follow_kart" xyz="3.37779 1.19831 23.1944" distance="30"/>
     <camera type="static_follow_kart" xyz="-56.3339 3.08831 -13.4269" distance="30"/>
     <camera type="static_follow_kart" xyz="-99.061 4.88754 45.8325" distance="30"/>
     <camera type="static_follow_kart" xyz="-153.822 4.54754 32.0999" distance="30"/>
-    <camera type="static_follow_kart" xyz="-129.192 3.96754 3.7799" distance="29"/>
-    <camera type="static_follow_kart" xyz="-96.802 1.72754 -31.8801" distance="31"/>
+    <camera type="static_follow_kart" xyz="-137.462 1.26754 13.0699" distance="15"/>
+    <camera type="static_follow_kart" xyz="-110.972 0.62754 0.429897" distance="15"/>
+    <camera type="static_follow_kart" xyz="-92.202 0.55754 -22.7701" distance="15"/>
+    <camera type="static_follow_kart" xyz="-112.19 0.63754 -39.743" distance="15"/>
     <camera type="static_follow_kart" xyz="-140.3 6.20754 -44.6419" distance="30"/>
-    <camera type="static_follow_kart" xyz="-86.9614 5.70754 -30.5028" distance="29.5"/>
-    <camera type="static_follow_kart" xyz="-17.3414 3.89754 -60.1328" distance="35"/>
+    <camera type="static_follow_kart" xyz="-82.301 6.81754 -33.4228" distance="30"/>
+    <camera type="static_follow_kart" xyz="17.3414 3.89754 -47.8628" distance="60"/>
   </end-cameras>
 </scene>
+
