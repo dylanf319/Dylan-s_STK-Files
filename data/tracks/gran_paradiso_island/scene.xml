@@ -1572,6 +1572,7 @@
   </library>
   <library name="stklib_woodLittleBridge_a" id="stklib_woodLittleBridge_a_main_proxy.017" xyz="222.48 5.83 109.90" hpr="0.0 45.0 0.0" scale="0.72 1.12 0.52">
   </library>
+  </end-cameras>
     <camera type="static_follow_kart" xyz="106.799 9.84831 94.508" distance="50"/>
     <camera type="static_follow_kart" xyz="16.7946 28.7483 132.31" distance="75"/>
     <camera type="static_follow_kart" xyz="-96.1533 5.95831 134.901" distance="50"/>
@@ -1594,3 +1595,4 @@
     <camera type="static_follow_kart" xyz="191.214 16.9356 78.0255" distance="60"/>
   </end-cameras>
 </scene>
+
