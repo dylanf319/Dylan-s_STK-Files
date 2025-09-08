@@ -308,8 +308,10 @@
                 same-group="2 3"/>
     <check-line kind="activate" other-ids="4" p1="-83.69 6.16 -9.69" p2="-105.39 6.16 2.70"
                 same-group="2 3"/>
-    <check-line kind="activate" other-ids="0" p1="39.86 13.78 -26.75" p2="58.75 13.78 -32.94"
+    <check-line kind="activate" other-ids="5" p1="109.04 12.89 -82.20" p2="102.37 12.99 -63.48"
                 same-group="4"/>
+    <check-line kind="activate" other-ids="0" p1="88.39 20.52 10.58" p2="68.72 20.65 13.42"
+                same-group="5"/>
     <cannon p1="126.57 7.88 11.74" p2="133.46 7.88 18.79" target-p1="129.98 10.68 -22.28" target-p2="139.57 10.68 -20.02">
     <curve channel="LocXYZ" speed="50.00" interpolation="bezier" extend="const">
       <point c="130.257996 10.339101 15.117710" h1="128.794022 10.339101 16.661005" h2="130.989975 10.339101 14.346063" />
