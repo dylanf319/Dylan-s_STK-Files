@@ -14,15 +14,15 @@ There are no [releases](https://github.com/dylanf319/Dylan-s_STK-Files/releases)
 
 2. move files directories
 
-In `Dylan-s_STK-Files-STK-1.5-rc1.zip` extract and copy the folder `data` and paste it into
+In `Dylan-s_STK-Files-master.zip` extract and copy the folder `data` and paste it into
 
-  - Windows:`C:\Program Files\SuperTuxKart 1.5-rc1\`
+  - Windows:`C:\Program Files\SuperTuxKart 1.5-rc2\`
 
 let replace files so that changes can be made
 
-_Before getting the addons, read in [ADDONS.md](https://github.com/dylanf319/Dylan-s_STK-Files/blob/STK-1.5-rc1/ADDONS.md) before having problems (bugs) when you are in STK, if you understood, let's continue._
+_Before getting the addons, read in [ADDONS.md](https://github.com/dylanf319/Dylan-s_STK-Files/blob/master/ADDONS.md) before having problems (bugs) when you are in STK, if you understood, let's continue._
 
-In `Dylan-s_STK-Files-STK-1.5-rc1.zip` extract and copy the folder `supertuxkart` and paste it into
+In `Dylan-s_STK-Files-master.zip` extract and copy the folder `supertuxkart` and paste it into
 
   - Windows:`C:\Users\username\AppData\Roaming\`
 
