@@ -551,6 +551,21 @@
     <check-line kind="activate" other-ids="0" p1="-60.84 0.60" p2="-45.68 22.95"
                 min-height="22.48" same-group="3 4"/>
   </checks>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="-63.810900 4.438310 97.902200" distance="110.0"/> <!-- Camera -->
+    <camera type="static_follow_kart" xyz="-132.231000 2.608310 109.592000" distance="45.0"/> <!-- Camera.001 -->
+    <camera type="static_follow_kart" xyz="-142.191000 2.608310 53.982000" distance="30.0"/> <!-- Camera.002 -->
+    <camera type="static_follow_kart" xyz="-176.241000 5.808310 -37.948000" distance="70.0"/> <!-- Camera.003 -->
+    <camera type="static_follow_kart" xyz="-125.381000 29.038300 -122.548000" distance="50.0"/> <!-- Camera.004 -->
+    <camera type="static_follow_kart" xyz="-23.381000 42.278300 -109.748000" distance="30.0"/> <!-- Camera.005 -->
+    <camera type="static_follow_kart" xyz="69.979000 43.488300 -117.698000" distance="50.0"/> <!-- Camera.006 -->
+    <camera type="static_follow_kart" xyz="61.198400 43.818300 -26.684100" distance="50.0"/> <!-- Camera.007 -->
+    <camera type="static_follow_kart" xyz="-28.466400 44.538300 -44.280100" distance="30.0"/> <!-- Camera.008 -->
+    <camera type="static_follow_kart" xyz="-110.769000 35.588300 -36.136200" distance="30.0"/> <!-- Camera.009 -->
+    <camera type="static_follow_kart" xyz="-70.610900 35.938300 29.116900" distance="30.0"/> <!-- Camera.010 -->
+    <camera type="static_follow_kart" xyz="-36.070900 15.258300 -40.103100" distance="50.0"/> <!-- Camera.011 -->
+    <camera type="static_follow_kart" xyz="-112.731000 4.118300 -24.473100" distance="50.0"/> <!-- Camera.012 -->
+  </end-cameras>
   <particle-emitter kind="fire.xml" id="Fire" xyz="-111.75 40.64 -26.75" h="90.00" >
   </particle-emitter>
   <particle-emitter kind="fire.xml" id="Fire.001" xyz="-111.75 40.64 -51.54" h="90.00" >
@@ -635,16 +650,4 @@
                  forwards-distance ="1.10"
                  sidewards-distance="2.00"
                  upwards-distance  ="1.10"/>
-  <end-cameras>
-    <camera type="static_follow_kart" xyz="-63.8109 4.43831 97.9022" distance="110"/>
-    <camera type="static_follow_kart" xyz="-132.231 2.60831 109.592" distance="40"/>
-    <camera type="static_follow_kart" xyz="-212.511 24.3983 -88.248" distance="70"/>
-    <camera type="static_follow_kart" xyz="69.979 43.4883 -117.698" distance="90"/>
-    <camera type="static_follow_kart" xyz="61.1984 43.8183 -26.6841" distance="50"/>
-    <camera type="static_follow_kart" xyz="-57.9864 38.1483 -48.2701" distance="30"/>
-    <camera type="static_follow_kart" xyz="-110.769 35.5883 -36.1362" distance="30"/>
-    <camera type="static_follow_kart" xyz="-70.6109 35.9383 29.1169" distance="30"/>
-    <camera type="static_follow_kart" xyz="-36.0709 15.2583 -40.1031" distance="50"/>
-    <camera type="static_follow_kart" xyz="-112.731 4.1183 -24.4731" distance="50"/>
-  </end-cameras>
 </scene>

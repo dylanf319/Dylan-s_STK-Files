@@ -114,6 +114,25 @@
     </curve>
     </cannon>
   </checks>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="59.218899 2.148310 40.624199" distance="50.0"/> <!-- Camera -->
+    <camera type="static_follow_kart" xyz="150.229019 1.928310 90.074203" distance="60.0"/> <!-- Camera.001 -->
+    <camera type="static_follow_kart" xyz="225.498993 2.318310 118.933998" distance="60.0"/> <!-- Camera.002 -->
+    <camera type="static_follow_kart" xyz="245.009003 10.598300 52.097401" distance="30.0"/> <!-- Camera.003 -->
+    <camera type="static_follow_kart" xyz="260.718994 17.848299 -8.580500" distance="35.0"/> <!-- Camera.004 -->
+    <camera type="static_follow_kart" xyz="307.337372 19.522562 -72.154984" distance="45.0"/> <!-- Camera.005 -->
+    <camera type="static_follow_kart" xyz="314.213501 19.828300 -131.180939" distance="35.0"/> <!-- Camera.006 -->
+    <camera type="static_follow_kart" xyz="235.664993 15.748300 -159.527069" distance="55.0"/> <!-- Camera.007 -->
+    <camera type="static_follow_kart" xyz="193.704391 8.148300 -228.016571" distance="45.0"/> <!-- Camera.008 -->
+    <camera type="static_follow_kart" xyz="104.782028 4.820000 -211.029022" distance="40.0"/> <!-- Camera.009 -->
+    <camera type="static_follow_kart" xyz="71.360092 2.958300 -277.437012" distance="45.0"/> <!-- Camera.010 -->
+    <camera type="static_follow_kart" xyz="3.829367 2.958300 -261.385315" distance="45.0"/> <!-- Camera.011 -->
+    <camera type="static_follow_kart" xyz="-57.424000 1.248300 -237.953995" distance="45.0"/> <!-- Camera.012 -->
+    <camera type="static_follow_kart" xyz="-34.784000 3.188300 -118.374001" distance="50.0"/> <!-- Camera.013 -->
+    <camera type="static_follow_kart" xyz="-63.985298 7.448300 -34.540203" distance="30.0"/> <!-- Camera.014 -->
+    <camera type="static_follow_kart" xyz="-65.195297 2.488300 24.699799" distance="35.0"/> <!-- Camera.015 -->
+    <camera type="static_follow_kart" xyz="-7.860000 5.280000 39.009998" distance="40.0"/> <!-- Camera.016 -->
+  </end-cameras>
   <particle-emitter kind="gfx_fallingLeaf_a.xml" id="Empty" xyz="106.02 13.14 34.32" h="0.00" >
   </particle-emitter>
   <particle-emitter kind="gfx_fallingLeaf_a.xml" id="Empty.034" xyz="-53.27 13.14 4.76" h="0.00" >
@@ -1783,21 +1802,4 @@
   </library>
   <library name="stklib_woodLittleBridge_a" id="stklib_woodLittleBridge_a_main_proxy.043" xyz="275.39 19.63 -60.14" hpr="90.0 33.4 0.0" scale="0.51 0.19 0.19">
   </library>
-  <end-cameras>
-    <camera type="static_follow_kart" xyz="59.2189 2.14831 40.6242" distance="40"/>
-    <camera type="static_follow_kart" xyz="152.399 0.93831 87.6542" distance="60"/>
-    <camera type="static_follow_kart" xyz="225.499 2.31831 118.934" distance="60"/>
-    <camera type="static_follow_kart" xyz="245.009 10.5983 52.0974" distance="30"/>
-    <camera type="static_follow_kart" xyz="260.719 15.2083 -8.5805" distance="30"/>
-    <camera type="static_follow_kart" xyz="271.767 20.3983 -80.3475" distance="28"/>
-    <camera type="static_follow_kart" xyz="319.87 19.7183 -97.3285" distance="30"/>
-    <camera type="static_follow_kart" xyz="260.719 21.9083 -142.968" distance="40"/>
-    <camera type="static_follow_kart" xyz="201.938 7.8883 -205.467" distance="30"/>
-    <camera type="static_follow_kart" xyz="120.355 4.1183 -221.055" distance="30"/>
-    <camera type="static_follow_kart" xyz="14.9601 4.1183 -242.187" distance="100"/>
-    <camera type="static_follow_kart" xyz="-57.424 1.2483 -237.954" distance="40"/>
-    <camera type="static_follow_kart" xyz="-34.784 3.1883 -118.374" distance="50"/>
-    <camera type="static_follow_kart" xyz="-65.7453 2.6583 31.5898" distance="70"/>
-    <camera type="static_follow_kart" xyz="-7.86 5.28 39.01" distance="40"/>
-  </end-cameras>
 </scene>

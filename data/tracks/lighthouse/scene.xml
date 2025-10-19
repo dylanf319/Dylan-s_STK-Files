@@ -260,6 +260,17 @@
     <check-line kind="lap" other-ids="1" p1="18.93 -67.30" p2="18.93 -56.89"
                 min-height="-14.16" same-group="0 4 5"/>
   </checks>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="45.192101 -10.700000 -40.396702" distance="35.0"/> <!-- Camera -->
+    <camera type="static_follow_kart" xyz="90.522102 -16.410000 -13.466700" distance="30.0"/> <!-- Camera.001 -->
+    <camera type="static_follow_kart" xyz="12.180000 -15.000000 -7.846700" distance="40.0"/> <!-- Camera.002 -->
+    <camera type="static_follow_kart" xyz="-66.546402 -8.450000 30.989000" distance="55.0"/> <!-- Camera.003 -->
+    <camera type="static_follow_kart" xyz="-117.736000 -17.139999 -8.371000" distance="40.0"/> <!-- Camera.004 -->
+    <camera type="static_follow_kart" xyz="-92.607063 -25.429998 -124.140854" distance="50.0"/> <!-- Camera.005 -->
+    <camera type="static_follow_kart" xyz="-24.456522 -18.480000 -143.367157" distance="50.0"/> <!-- Camera.006 -->
+    <camera type="static_follow_kart" xyz="34.863300 6.642040 -134.294998" distance="60.0"/> <!-- Camera.007 -->
+    <camera type="static_follow_kart" xyz="-25.286699 -1.597960 -68.464302" distance="50.0"/> <!-- Camera.008 -->
+  </end-cameras>
   <item id="Empty" x="83.67" y="-16.09" z="0.94" />
   <item id="Empty.001" x="81.79" y="-16.09" z="-0.97" />
   <item id="Empty.002" x="79.71" y="-16.09" z="-2.75" />
@@ -429,14 +440,4 @@
   </library>
   <library name="stklib_pinetree_a" id="stklib_pinetree_a_main_proxy.012" xyz="215.77 11.51 -82.47" hpr="0.0 -0.0 0.0" scale="0.99 0.99 0.99">
   </library>
-  <end-cameras>
-    <camera type="static_follow_kart" xyz="45.1921 -10.70 -40.3967" distance="25"/>
-    <camera type="static_follow_kart" xyz="90.5221 -16.41 -13.4667" distance="25"/>
-    <camera type="static_follow_kart" xyz="12.18 -15.00 -7.8467" distance="42"/>
-    <camera type="static_follow_kart" xyz="-66.5464 -8.45 30.989" distance="55"/>
-    <camera type="static_follow_kart" xyz="-117.736 -17.14 -8.371" distance="40"/>
-    <camera type="static_follow_kart" xyz="-83.0511 -7.79 -157.339" distance="110"/>
-    <camera type="static_follow_kart" xyz="34.8633 6.64204 -134.295" distance="60"/>
-    <camera type="static_follow_kart" xyz="-25.2867 -1.59796 -68.4643" distance="50"/>
-  </end-cameras>
 </scene>

@@ -49,6 +49,19 @@
     <check-line kind="lap" other-ids="1" p1="5.30 -140.38 8.06" p2="7.30 -140.38 8.06"
                 same-group="0 5 6"/>
   </checks>
+  <end-cameras>
+    <camera type="static_follow_kart" xyz="-21.961100 -138.732000 120.826000" distance="70.0"/> <!-- Camera -->
+    <camera type="static_follow_kart" xyz="17.936600 -136.472000 76.263000" distance="30.0"/> <!-- Camera.001 -->
+    <camera type="static_follow_kart" xyz="-21.961100 -138.731000 120.826000" distance="35.0"/> <!-- Camera.002 -->
+    <camera type="static_follow_kart" xyz="-54.520400 -136.406000 218.916000" distance="70.0"/> <!-- Camera.003 -->
+    <camera type="static_follow_kart" xyz="-165.418000 -139.146000 125.130000" distance="70.0"/> <!-- Camera.004 -->
+    <camera type="static_follow_kart" xyz="-184.055000 -140.081000 26.084800" distance="70.0"/> <!-- Camera.005 -->
+    <camera type="static_follow_kart" xyz="-313.254000 -144.343000 20.997800" distance="50.0"/> <!-- Camera.006 -->
+    <camera type="static_follow_kart" xyz="-180.636000 -140.503000 -97.035900" distance="50.0"/> <!-- Camera.007 -->
+    <camera type="static_follow_kart" xyz="-136.239000 -132.886000 3.735260" distance="60.0"/> <!-- Camera.008 -->
+    <camera type="static_follow_kart" xyz="-50.661400 -128.802000 -156.159000" distance="50.0"/> <!-- Camera.009 -->
+    <camera type="static_follow_kart" xyz="17.908500 -133.624000 -137.742000" distance="50.0"/> <!-- Camera.010 -->
+  </end-cameras>
   <particle-emitter kind="waterfall.xml" id="Empty.015" xyz="-189.48 -168.96 0.64" h="-2.09" >
   </particle-emitter>
   <particle-emitter kind="waterfall.xml" id="Empty.038" xyz="-191.02 -169.23 3.17" h="-2.09" >
@@ -297,15 +310,4 @@
   </library>
   <library name="stklib_palmTree_a" id="stklib_palmTree_a_main_proxy.025" xyz="-164.02 -141.24 144.62" hpr="2.6 -2.8 -4.4" scale="0.95 0.95 0.95">
   </library>
-  <end-cameras>
-    <camera type="static_follow_kart" xyz="-21.9611 -138.732 120.826" distance="70"/>
-    <camera type="static_follow_kart" xyz="-54.5204 -136.406 218.916" distance="70"/>
-    <camera type="static_follow_kart" xyz="-165.418 -139.146 125.13" distance="70"/>
-    <camera type="static_follow_kart" xyz="-184.055 -140.081 26.0848" distance="70"/>
-    <camera type="static_follow_kart" xyz="-313.254 -144.343 20.9978" distance="50"/>
-    <camera type="static_follow_kart" xyz="-180.636 -140.503 -97.0359" distance="50"/>
-    <camera type="static_follow_kart" xyz="-136.239 -132.886 3.73526" distance="60"/>
-    <camera type="static_follow_kart" xyz="-50.6614 -128.802 -156.159" distance="50"/>
-    <camera type="static_follow_kart" xyz="17.9085 -133.624 -137.742" distance="50"/>
-  </end-cameras>
 </scene>
