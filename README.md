@@ -10,13 +10,13 @@ _Please note that this is not exactly a special modification, anyone can do this
 
 There are no [releases](https://github.com/dylanf319/Dylan-s_STK-Files/releases) yet due to multiple commit changes almost every day.
 
-1. So for now you should download the source code from in .zip file [[<> Code▾]](https://github.com/dylanf319/Dylan-s_STK-Files)
+1. So for now you should download the source code from in .zip file [[<> Code▾]](https://github.com/dylanf319/Dylan-s_STK-Files/archive/refs/heads/master.zip)
 
 2. move files directories
 
 In `Dylan-s_STK-Files-master.zip` extract and copy the folder `data` and paste it into
 
-  - Windows:`C:\Program Files\SuperTuxKart 1.5-rc2\`
+  - Windows:`C:\Program Files\SuperTuxKart 1.5\`
 
 let replace files so that changes can be made
 
