@@ -1,4 +1,12 @@
 
+
+# SuperTuxKart Add-Ons
+
+### Aahcienda
+
+<img width="111" height="81" alt="image" src="https://github.com/user-attachments/assets/5e83cf10-8e66-46bd-82f5-909a121802ea" />
+
+_
 ### Alpine-2
 
 <img width="105" height="78" alt="image" src="https://github.com/user-attachments/assets/4e751f16-a08a-4271-b875-053a4932c571" />
@@ -17,6 +25,7 @@ _
 ### Ancient-Summits
 
 <img width="102" height="77" alt="image" src="https://github.com/user-attachments/assets/78ae7345-e1d8-4e25-82e6-3e228620d5c3" />
+
 
 _
 ### Art Museum
@@ -107,6 +116,11 @@ _
 ### Cross Race
 
 <img width="105" height="81" alt="image" src="https://github.com/user-attachments/assets/fca912e9-f9a4-432e-87f5-d1cc34bc0f24" />
+
+_
+### Demon Ravine
+
+<img width="106" height="81" alt="Captura de pantalla 2025-10-23 100036" src="https://github.com/user-attachments/assets/409de3d5-040c-4ca1-8aca-e83022c2d9f2" />
 
 _
 ### Final Gloom
@@ -334,11 +348,6 @@ _
 <img width="100" height="77" alt="image" src="https://github.com/user-attachments/assets/a4e39cf6-f05d-41b5-8cfe-b7ba6b33d095" />
 
 _
-### SNES Rainbow Road
-
-<img width="101" height="77" alt="image" src="https://github.com/user-attachments/assets/94f938b8-c087-4d13-98c0-e520d880f8b2" />
-
-_
 ### Snow Peak Rework
 
 <img width="102" height="77" alt="image" src="https://github.com/user-attachments/assets/0e395123-870c-4b9d-b050-6cb5321786d2" />
@@ -424,6 +433,11 @@ _
 <img width="91" height="72" alt="image" src="https://github.com/user-attachments/assets/08fe0e61-32c1-41a5-b0fe-840f25811d8c" />
 
 _
+### Wide View Mugello
+
+<img width="109" height="81" alt="image" src="https://github.com/user-attachments/assets/94a5e308-3e4e-4082-a012-215a648c5f1f" />
+
+_
 ### Woodromo
 
 <img width="107" height="81" alt="image" src="https://github.com/user-attachments/assets/f3409b29-e0b6-4a2c-9484-019d9ba05ff8" />
@@ -433,6 +447,21 @@ _
 
 <img width="94" height="72" alt="image" src="https://github.com/user-attachments/assets/877f92df-923f-4a8a-b0d5-0cba00fff298" />
 
+_
+# SuperTuxKart Mods
 
+### Cirno Circuit
+
+<img width="109" height="81" alt="image" src="https://github.com/user-attachments/assets/ad880a4b-3e00-444a-9058-2a073d3cef72" />
 _
 
+### LM Track Day (Version Sr.Pingus)
+
+<img width="106" height="81" alt="image" src="https://github.com/user-attachments/assets/6beee7ed-cf9d-4b19-a344-253a005a0ad1" />
+
+_
+### SNES Rainbow Road
+
+<img width="101" height="77" alt="image" src="https://github.com/user-attachments/assets/94f938b8-c087-4d13-98c0-e520d880f8b2" />
+
+_
