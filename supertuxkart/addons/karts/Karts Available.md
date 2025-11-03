@@ -33,7 +33,7 @@ _
 <img width="512" height="512" alt="rtt_6089931" src="https://github.com/user-attachments/assets/8d3f72ab-5c01-4f91-b360-4cdd55fe374e" />
 
 _
-### EvilTux
+### Evil Tux (Animated)
 
 <img width="512" height="512" alt="rtt_6121069" src="https://github.com/user-attachments/assets/0037f4e5-d05d-4aba-90c2-d843c0a10ce0" />
 
