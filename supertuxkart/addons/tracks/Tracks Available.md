@@ -198,6 +198,11 @@ _
 <img width="88" height="69" alt="image" src="https://github.com/user-attachments/assets/1d9ca9ed-a946-4708-823a-38892abf8a7b" />
 
 _
+### Northern Village
+
+<img width="110" height="77" alt="northernville-sshot" src="https://github.com/user-attachments/assets/4876bb34-494e-48d5-989e-7d552112a130" />
+
+_
 ### Nostalgia
 
 <img width="101" height="77" alt="image" src="https://github.com/user-attachments/assets/7cb4cd60-8095-4d5b-a1f2-8f0dc4f9668c" />
@@ -446,6 +451,11 @@ _
 ### X Kart 1
 
 <img width="94" height="72" alt="image" src="https://github.com/user-attachments/assets/877f92df-923f-4a8a-b0d5-0cba00fff298" />
+
+_
+### Zejumio
+
+<img width="110" height="77" alt="Zejumio shot" src="https://github.com/user-attachments/assets/bd6c840b-7f4e-4b54-9bdd-8947941ea5bd" />
 
 _
 # SuperTuxKart Mods
