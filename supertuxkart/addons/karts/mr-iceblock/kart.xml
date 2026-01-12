@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<kart name="Mr Iceblock" version="2" model-file="mr iceblock.b3d" icon-file="mriceblockicon.png" minimap-icon-file="mriceblockicon.png" shadow-file="mriceblockshadow.png" groups="Add-Ons VIP" rgb="0.7 0 0" revision="2">
+<kart name="Mr Iceblock" version="2" model-file="mr iceblock.b3d" icon-file="mriceblockicon.png" minimap-icon-file="mriceblockicon.png" shadow-file="mriceblockshadow.png" groups="Add-Ons" rgb="0.7 0 0" revision="2">
     <sounds engine="small"/>
     <animations left="0" straight="20" right="40" start-winning="80" start-winning-loop="174" end-winning="179" start-losing="244" start-losing-loop="349" end-losing="364"/>
     <wheels>

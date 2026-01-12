@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<kart name="Alternative Tux" version="2" model-file="alternative tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="shadow.png" random-wheel-rot="true" type="medium" center-shift="0.00" groups="Add-Ons VIP" rgb="1.00 0.00 0.00" revision="1">
+<kart name="Alternative Tux" version="2" model-file="alternative tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="shadow.png" random-wheel-rot="true" type="medium" center-shift="0.00" groups="Add-Ons" rgb="1.00 0.00 0.00" revision="1">
     <sounds engine="large"/>
     <animations left="0" straight="40" right="80" start-winning="99" start-winning-loop="139" end-winning="179" start-losing="197" start-losing-loop="237" end-losing="278"/>
     <wheels>

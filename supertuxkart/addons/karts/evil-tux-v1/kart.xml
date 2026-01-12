@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<kart name="Evil Tux-V1" version="2" model-file="evil tux.b3d" icon-file="evil-tux-icon.png" minimap-icon-file="evil-tux-icon.png" shadow-file="evil-tuxkartshadow.png" groups="Add-Ons VIP" rgb="0.7 0 0" revision="1">
+<kart name="Evil Tux-V1" version="2" model-file="evil tux.b3d" icon-file="evil-tux-icon.png" minimap-icon-file="evil-tux-icon.png" shadow-file="evil-tuxkartshadow.png" groups="Add-Ons" rgb="0.7 0 0" revision="1">
     <sounds engine="small"/>
     <animations left="0" straight="49" right="99" start-winning="139" start-winning-loop="339" end-winning="379" start-losing="486" start-losing-loop="959" end-losing="979"/>
     <wheels>
