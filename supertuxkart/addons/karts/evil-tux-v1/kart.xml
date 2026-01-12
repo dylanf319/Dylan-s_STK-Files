@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<kart name="Evil Tux-V1" version="2" model-file="evil tux.b3d" icon-file="evil-tux-icon.png" minimap-icon-file="evil-tux-icon.png" shadow-file="evil-tuxkartshadow.png" groups="Add-Ons VIP" rgb="0.7 0 0" revision="1">
+    <sounds engine="small"/>
+    <animations left="0" straight="49" right="99" start-winning="139" start-winning-loop="339" end-winning="379" start-losing="486" start-losing-loop="959" end-losing="979"/>
+    <wheels>
+        <front-left position="-0.334000 0.134000 0.522000" model="wheel-front-left.b3d"/>
+        <front-right position="0.334000 0.134000 0.522000" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.376000 0.156000 -0.423000" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.376000 0.156000 -0.423000" model="wheel-rear-right.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="-0.169599 0.546499 -0.756500"/>
+        <nitro-emitter-b position="0.175301 0.546899 -0.756500"/>
+        <nitro-emitter-c position="0.003301 0.622500 -0.756500"/>
+    </nitro-emitter>
+    <hat position="-0.000000 0.685895 -0.030888" rotation="7.000000 0.000000 0.000000" scale="1.000000 1.000000 1.000000" bone="Head"/>
+    <exhaust file="kart_exhaust.xml"/>
+</kart>

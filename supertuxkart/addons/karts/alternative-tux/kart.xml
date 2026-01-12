@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<kart name="Alternative Tux" version="2" model-file="alternative tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="shadow.png" random-wheel-rot="true" type="medium" center-shift="0.00" groups="Add-Ons VIP" rgb="1.00 0.00 0.00" revision="1">
+    <sounds engine="large"/>
+    <animations left="0" straight="40" right="80" start-winning="99" start-winning-loop="139" end-winning="179" start-losing="197" start-losing-loop="237" end-losing="278"/>
+    <wheels>
+        <front-left position="-0.371049 0.149528 0.324099" model="wheel-front-left.b3d"/>
+        <front-right position="0.372689 0.149528 0.324099" model="wheel-front-right.b3d"/>
+        <rear-left position="-0.371470 0.149528 -0.348320" model="wheel-rear-left.b3d"/>
+        <rear-right position="0.373268 0.149528 -0.348320" model="wheel-rear-right.b3d"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.250851 0.121608 0.088625"/>
+        <nitro-emitter-b position="-0.250222 0.121608 0.087482"/>
+    </nitro-emitter>
+    <hat position="-0.000000 0.004000 0.799160" rotation="2.500000 0.000000 0.000000" scale="0.800000 0.800000 0.800000" bone="Head"/>
+    <exhaust file="kart_exhaust.xml"/>
+</kart>
