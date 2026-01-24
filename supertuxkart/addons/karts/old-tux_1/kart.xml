@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<kart name="Old Tux" version="3" model-file="tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="tuxkartshadow.png" type="medium" groups="Add-Ons VIP" rgb="0.7 0 0" revision="8">
+<kart name="Old Tux" version="3" model-file="tux.b3d" icon-file="tuxicon.png" minimap-icon-file="tuxicon.png" shadow-file="tuxkartshadow.png" type="medium" groups="Add-Ons" rgb="0.7 0 0" revision="8">
     <sounds engine="custom" file="old_engine_small.ogg" rolloff="0.2" volume="0.6" positional="y">
         <skid name="old-skid.ogg"/>
     </sounds>
