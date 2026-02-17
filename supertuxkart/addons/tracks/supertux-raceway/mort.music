@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<music title    = "Mortimer's chip-disko"
+       composer = "Mortimer Twang"
+       file     = "mort.ogg"
+       gain     = "1.2"
+       fast     = "true"
+       fast-filename = "Mortimers_chipdisko-fast.ogg"
+       fast-loop-start = "2.350791"/>
