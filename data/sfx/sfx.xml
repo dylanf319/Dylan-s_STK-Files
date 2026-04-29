@@ -37,7 +37,7 @@
    <sfx filename="goo.ogg"              volume="1.0" positional="true" rolloff="0.2"  />
    <sfx filename="gp_end.ogg"           volume="1.0" positional="false" />
    <sfx filename="grab_collectable.ogg" volume="1.0" positional="false" />
-   <sfx filename="hammer.ogg"           volume="1.5" positional="true" rolloff="0.05" />
+   <sfx filename="hammer.ogg"           volume="3.0" positional="true" rolloff="0.05" />
    <sfx filename="horn.ogg"             volume="0.9" positional="true" rolloff="0.2"  />
    <sfx filename="inflate.ogg"          volume="1.0" positional="true"  rolloff="0.1" />
    
@@ -62,7 +62,7 @@
    <sfx filename="start_race.ogg"       volume="1.0" positional="false" />
    <sfx filename="strike.ogg"           volume="1.0" positional="true" rolloff="0.05"  />
    <sfx filename="swap.ogg"             volume="1.0" positional="false" />
-   <sfx filename="swatter.ogg"          volume="1.5" positional="true" rolloff="0.05" />
+   <sfx filename="swatter.ogg"          volume="2.0" positional="true" rolloff="0.05" />
    <sfx filename="thunder.ogg"          volume="1.0" positional="false" />
    <sfx filename="track_intro.ogg"      volume="1.0" positional="false" />
    <sfx filename="ugh.ogg"              volume="1.0" positional="false" />
