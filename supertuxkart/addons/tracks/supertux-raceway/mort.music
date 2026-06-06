@@ -2,7 +2,7 @@
 <music title    = "Mortimer's chip-disko"
        composer = "Mortimer Twang"
        file     = "mort.ogg"
-       gain     = "1.2"
+       gain     = "1.5"
        fast     = "true"
        fast-filename = "Mortimers_chipdisko-fast.ogg"
        fast-loop-start = "2.350791"/>
