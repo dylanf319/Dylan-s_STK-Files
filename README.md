@@ -25,6 +25,10 @@ _Before getting the addons, read in [ADDONS.md](https://github.com/dylanf319/Dyl
 In `Dylan-s_STK-Files-master.zip` extract and copy the folder `supertuxkart` and paste it into
 
   - Windows:`C:\Users\username\AppData\Roaming\`
+  - 
+  - Linux:`home/username/.local/share/`
+  - 
+  - macOS:`username/Library/Application Support/`
 
   let replace files so that changes can be made
 
