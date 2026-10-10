@@ -428,6 +428,11 @@ _
 <img width="91" height="71" alt="image" src="https://github.com/user-attachments/assets/000e11c4-7aea-42bc-9788-2acff2d26c18" />
 
 _
+### Tux Stadium
+
+<img width="126" height="100" alt="image" src="https://github.com/user-attachments/assets/cf99cb58-b601-4134-af6d-75c16d120732" />
+
+_
 ### Tux Tollway
 
 <img width="104" height="79" alt="image" src="https://github.com/user-attachments/assets/db8188ae-dde7-47bb-a0a6-d947e574d32f" />

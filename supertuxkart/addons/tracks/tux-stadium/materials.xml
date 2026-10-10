@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials>
+  <material name="skyscraper8_tileable.jpg" shader="unlit"/>
+  <material name="zipper.png" shader="alphablend" ignore="Y"/>
+  <material name="stkflag_yellowCheckBoard_a.png">
+    <zipper duration="3.5" max-speed-increase="15.0" fade-out-time="3.0" speed-gain="4.5" min-speed="-1.0"/>
+  </material>
+  <material name="stkcrowd_lowPoly_b.png" shader="alphatest" ignore="Y"/>
+  <material name="stk_generic_grid_b.png" shader="alphatest"/>
+  <material name="stkflag_blueCheckBorard_a.png">
+    <zipper duration="3.5" max-speed-increase="15.0" fade-out-time="3.0" speed-gain="4.5" min-speed="-1.0"/>
+  </material>
+  <material name="tuxkart.png" gloss-map="tuxkart_gloss.png"/>
+  <material name="tux_body.png" gloss-map="tux_body_gloss.png"/>
+  <material name="stk_blueFutureSquareLight_a.png" shader="unlit"/>
+</materials>
