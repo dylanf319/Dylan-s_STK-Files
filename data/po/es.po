@@ -1629,9 +1629,8 @@ msgstr "Pelota de baloncesto - rebota tras el líder, y puede aplastar y frenar 
 
 #. I18N: ./data/gui/screens/help/help3.stkgui
 msgid ""
-"Cheems' Bat - will squash karts close by, slowing them down. Can also be used to"
-" remove parachutes and bombs."
-msgstr "Bate de Cheems - aplastará a los karts a su alrededor, frenándolos. También se puede usar para eliminar paracaídas i bombas."
+"Cheems's Bat - will squash karts close by, slowing them down. Can also be used to remove parachutes and bombs."
+msgstr "Bate de Cheems - aplastará a los karts a su alrededor, frenándolos. También se puede usar para eliminar paracaídas y bombas."
 
 #. I18N: ./data/gui/screens/help/help4.stkgui
 msgid ""
